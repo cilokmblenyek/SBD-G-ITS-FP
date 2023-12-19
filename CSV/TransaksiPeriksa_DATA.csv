@@ -1,0 +1,1001 @@
+ID,WaktuMasuk,Deskripsi,Komentar,Total_Biaya,P_ID,H_ID
+1,11/07/2023,infeksi virus,Sangat baik,$0.00,944,115
+2,01/12/2023,infeksi virus,Baik,$0.00,540,862
+3,02/08/2023,kekurangan nutrisi,Sangat baik,$0.00,397,562
+4,10/07/2023,keracunan,Baik,$0.00,382,656
+5,06/08/2023,infeksi bakteri,Baik,$0.00,482,664
+6,20/06/2023,gangguan imun,Tidak baik,$0.00,384,957
+7,13/02/2023,cedera fisik,Sangat baik,$0.00,305,483
+8,22/05/2023,gangguan imun,Tidak baik,$0.00,372,87
+9,19/11/2023,infeksi bakteri,Kurang baik,$0.00,773,537
+10,14/01/2023,cedera fisik,Sangat baik,$0.00,979,950
+11,14/11/2023,parasit internal,Sangat baik,$0.00,531,243
+12,07/05/2023,cedera fisik,Kurang baik,$0.00,313,658
+13,19/11/2023,cedera fisik,Kurang baik,$0.00,193,390
+14,12/12/2023,cedera fisik,Tidak baik,$0.00,68,849
+15,29/11/2023,infeksi virus,Kurang baik,$0.00,24,128
+16,07/12/2023,cedera fisik,Kurang baik,$0.00,792,861
+17,20/05/2023,cedera fisik,Baik,$0.00,868,232
+18,29/08/2023,gangguan imun,Baik,$0.00,391,481
+19,30/06/2023,infeksi bakteri,Baik,$0.00,359,983
+20,04/10/2023,parasit eksternal,Sangat baik,$0.00,599,219
+21,09/09/2023,gangguan imun,Baik,$0.00,62,914
+22,29/11/2023,infeksi bakteri,Sangat baik,$0.00,514,718
+23,20/07/2023,gangguan imun,Cukup baik,$0.00,828,408
+24,15/02/2023,parasit internal,Kurang baik,$0.00,117,373
+25,01/03/2023,keracunan,Cukup baik,$0.00,294,193
+26,25/03/2023,gangguan imun,Kurang baik,$0.00,386,517
+27,13/11/2023,kekurangan nutrisi,Sangat baik,$0.00,720,721
+28,14/05/2023,gangguan imun,Kurang baik,$0.00,386,517
+29,10/02/2023,parasit internal,Baik,$0.00,185,313
+30,29/08/2023,parasit internal,Tidak baik,$0.00,285,202
+31,26/02/2023,parasit internal,Tidak baik,$0.00,462,901
+32,12/01/2023,gangguan imun,Kurang baik,$0.00,578,844
+33,27/04/2023,kekurangan nutrisi,Cukup baik,$0.00,264,592
+34,01/07/2023,keracunan,Sangat baik,$0.00,155,146
+35,08/04/2023,kekurangan nutrisi,Sangat baik,$0.00,266,717
+36,22/05/2023,cedera fisik,Cukup baik,$0.00,431,682
+37,22/06/2023,parasit eksternal,Tidak baik,$0.00,97,866
+38,06/01/2023,infeksi virus,Kurang baik,$0.00,599,288
+39,18/08/2023,keracunan,Tidak baik,$0.00,881,699
+40,26/02/2023,parasit eksternal,Tidak baik,$0.00,964,400
+41,06/11/2023,parasit eksternal,Baik,$0.00,644,909
+42,30/11/2023,gangguan imun,Cukup baik,$0.00,798,276
+43,12/12/2023,infeksi bakteri,Cukup baik,$0.00,241,985
+44,28/07/2023,kekurangan nutrisi,Tidak baik,$0.00,281,558
+45,30/08/2023,gangguan imun,Kurang baik,$0.00,344,464
+46,08/05/2023,gangguan imun,Baik,$0.00,378,208
+47,07/11/2023,keracunan,Sangat baik,$0.00,452,454
+48,12/12/2023,kekurangan nutrisi,Sangat baik,$0.00,644,109
+49,08/04/2023,parasit internal,Kurang baik,$0.00,122,593
+50,04/11/2023,parasit eksternal,Kurang baik,$0.00,76,775
+51,21/01/2023,keracunan,Sangat baik,$0.00,940,58
+52,25/03/2023,kekurangan nutrisi,Cukup baik,$0.00,66,204
+53,12/02/2023,infeksi virus,Baik,$0.00,397,37
+54,26/09/2023,cedera fisik,Baik,$0.00,251,337
+55,10/09/2023,gangguan imun,Kurang baik,$0.00,54,622
+56,05/05/2023,infeksi bakteri,Cukup baik,$0.00,263,57
+57,11/07/2023,infeksi virus,Tidak baik,$0.00,681,449
+58,16/08/2023,infeksi bakteri,Kurang baik,$0.00,991,70
+59,09/03/2023,parasit internal,Sangat baik,$0.00,600,415
+60,03/03/2023,gangguan imun,Baik,$0.00,951,816
+61,30/09/2023,infeksi virus,Baik,$0.00,808,557
+62,18/10/2023,parasit internal,Tidak baik,$0.00,752,583
+63,28/05/2023,kekurangan nutrisi,Kurang baik,$0.00,421,564
+64,16/01/2023,parasit internal,Baik,$0.00,782,381
+65,24/06/2023,keracunan,Sangat baik,$0.00,70,981
+66,19/06/2023,infeksi bakteri,Baik,$0.00,780,720
+67,20/04/2023,kekurangan nutrisi,Sangat baik,$0.00,415,231
+68,04/08/2023,kekurangan nutrisi,Baik,$0.00,1,446
+69,11/08/2023,kekurangan nutrisi,Sangat baik,$0.00,484,149
+70,31/05/2023,parasit internal,Sangat baik,$0.00,695,296
+71,31/08/2023,gangguan imun,Sangat baik,$0.00,345,5
+72,13/11/2023,parasit internal,Sangat baik,$0.00,796,900
+73,02/05/2023,parasit eksternal,Sangat baik,$0.00,81,310
+74,09/04/2023,parasit eksternal,Sangat baik,$0.00,587,82
+75,18/09/2023,cedera fisik,Kurang baik,$0.00,923,165
+76,02/04/2023,parasit eksternal,Baik,$0.00,671,352
+77,20/11/2023,cedera fisik,Tidak baik,$0.00,295,980
+78,13/08/2023,kekurangan nutrisi,Baik,$0.00,448,273
+79,03/04/2023,infeksi bakteri,Cukup baik,$0.00,193,396
+80,04/06/2023,kekurangan nutrisi,Tidak baik,$0.00,830,215
+81,06/05/2023,kekurangan nutrisi,Sangat baik,$0.00,643,490
+82,28/10/2023,parasit eksternal,Cukup baik,$0.00,293,6
+83,29/09/2023,keracunan,Baik,$0.00,59,281
+84,19/11/2023,infeksi bakteri,Tidak baik,$0.00,685,724
+85,17/03/2023,gangguan imun,Kurang baik,$0.00,412,936
+86,03/03/2023,parasit eksternal,Kurang baik,$0.00,303,448
+87,11/11/2023,infeksi bakteri,Sangat baik,$0.00,194,602
+88,11/08/2023,infeksi virus,Sangat baik,$0.00,10,732
+89,17/09/2023,kekurangan nutrisi,Tidak baik,$0.00,967,671
+90,01/01/2023,kekurangan nutrisi,Cukup baik,$0.00,850,496
+91,14/01/2023,parasit internal,Tidak baik,$0.00,881,782
+92,08/04/2023,parasit eksternal,Sangat baik,$0.00,198,765
+93,09/09/2023,infeksi virus,Sangat baik,$0.00,493,509
+94,01/10/2023,keracunan,Tidak baik,$0.00,425,651
+95,23/04/2023,gangguan imun,Cukup baik,$0.00,416,589
+96,28/10/2023,parasit internal,Baik,$0.00,416,119
+97,11/09/2023,infeksi virus,Cukup baik,$0.00,266,83
+98,18/11/2023,parasit internal,Tidak baik,$0.00,379,95
+99,10/05/2023,keracunan,Sangat baik,$0.00,298,186
+100,05/02/2023,keracunan,Sangat baik,$0.00,745,460
+101,28/08/2023,kekurangan nutrisi,Tidak baik,$0.00,14,791
+102,05/10/2023,parasit eksternal,Cukup baik,$0.00,651,479
+103,06/07/2023,cedera fisik,Tidak baik,$0.00,799,826
+104,21/11/2023,infeksi virus,Cukup baik,$0.00,416,119
+105,13/01/2023,cedera fisik,Kurang baik,$0.00,59,281
+106,17/09/2023,kekurangan nutrisi,Kurang baik,$0.00,762,859
+107,09/12/2023,gangguan imun,Baik,$0.00,208,996
+108,30/07/2023,parasit internal,Tidak baik,$0.00,550,263
+109,10/12/2023,infeksi virus,Tidak baik,$0.00,628,974
+110,27/10/2023,infeksi bakteri,Cukup baik,$0.00,597,578
+111,09/03/2023,cedera fisik,Kurang baik,$0.00,298,348
+112,05/05/2023,infeksi bakteri,Sangat baik,$0.00,132,919
+113,19/03/2023,kekurangan nutrisi,Baik,$0.00,172,813
+114,21/07/2023,parasit eksternal,Cukup baik,$0.00,934,977
+115,14/07/2023,cedera fisik,Sangat baik,$0.00,499,628
+116,19/06/2023,keracunan,Baik,$0.00,22,883
+117,01/08/2023,parasit eksternal,Sangat baik,$0.00,110,63
+118,15/05/2023,infeksi virus,Baik,$0.00,926,611
+119,23/03/2023,infeksi virus,Tidak baik,$0.00,202,424
+120,06/03/2023,keracunan,Baik,$0.00,274,190
+121,08/03/2023,parasit internal,Tidak baik,$0.00,691,661
+122,14/07/2023,cedera fisik,Cukup baik,$0.00,578,844
+123,11/03/2023,parasit eksternal,Tidak baik,$0.00,257,151
+124,14/09/2023,infeksi bakteri,Tidak baik,$0.00,456,711
+125,07/07/2023,gangguan imun,Tidak baik,$0.00,935,889
+126,08/04/2023,infeksi bakteri,Cukup baik,$0.00,355,607
+127,08/08/2023,cedera fisik,Cukup baik,$0.00,345,30
+128,28/06/2023,cedera fisik,Tidak baik,$0.00,117,675
+129,26/09/2023,parasit eksternal,Cukup baik,$0.00,181,679
+130,10/04/2023,gangguan imun,Kurang baik,$0.00,307,807
+131,07/06/2023,parasit internal,Sangat baik,$0.00,425,905
+132,08/03/2023,parasit internal,Tidak baik,$0.00,912,260
+133,04/05/2023,parasit internal,Cukup baik,$0.00,579,723
+134,05/02/2023,kekurangan nutrisi,Baik,$0.00,934,977
+135,10/01/2023,kekurangan nutrisi,Tidak baik,$0.00,158,62
+136,18/08/2023,kekurangan nutrisi,Cukup baik,$0.00,792,861
+137,29/11/2023,keracunan,Baik,$0.00,607,127
+138,23/11/2023,cedera fisik,Cukup baik,$0.00,618,69
+139,18/06/2023,kekurangan nutrisi,Tidak baik,$0.00,926,399
+140,02/12/2023,infeksi bakteri,Tidak baik,$0.00,915,939
+141,31/05/2023,gangguan imun,Sangat baik,$0.00,489,194
+142,27/10/2023,infeksi bakteri,Baik,$0.00,192,442
+143,29/04/2023,cedera fisik,Tidak baik,$0.00,126,726
+144,27/10/2023,infeksi bakteri,Cukup baik,$0.00,955,380
+145,02/02/2023,infeksi bakteri,Tidak baik,$0.00,918,742
+146,19/07/2023,kekurangan nutrisi,Baik,$0.00,115,354
+147,19/04/2023,keracunan,Baik,$0.00,422,626
+148,16/07/2023,parasit eksternal,Baik,$0.00,762,223
+149,10/01/2023,kekurangan nutrisi,Kurang baik,$0.00,379,177
+150,01/06/2023,cedera fisik,Baik,$0.00,62,516
+151,06/05/2023,infeksi virus,Tidak baik,$0.00,277,384
+152,30/04/2023,gangguan imun,Tidak baik,$0.00,807,189
+153,11/09/2023,keracunan,Kurang baik,$0.00,199,943
+154,05/07/2023,infeksi bakteri,Tidak baik,$0.00,923,480
+155,08/01/2023,parasit internal,Kurang baik,$0.00,974,304
+156,22/09/2023,gangguan imun,Baik,$0.00,356,98
+157,05/01/2023,infeksi bakteri,Sangat baik,$0.00,628,974
+158,16/02/2023,parasit eksternal,Baik,$0.00,103,284
+159,01/08/2023,infeksi virus,Sangat baik,$0.00,310,198
+160,18/09/2023,keracunan,Baik,$0.00,183,683
+161,31/05/2023,parasit internal,Kurang baik,$0.00,48,512
+162,18/06/2023,cedera fisik,Baik,$0.00,9,362
+163,14/09/2023,parasit eksternal,Tidak baik,$0.00,872,665
+164,15/04/2023,infeksi virus,Cukup baik,$0.00,630,838
+165,23/09/2023,kekurangan nutrisi,Sangat baik,$0.00,216,982
+166,02/09/2023,infeksi virus,Kurang baik,$0.00,299,507
+167,11/08/2023,kekurangan nutrisi,Baik,$0.00,431,110
+168,11/02/2023,infeksi bakteri,Baik,$0.00,988,72
+169,29/01/2023,kekurangan nutrisi,Cukup baik,$0.00,367,48
+170,24/11/2023,parasit eksternal,Sangat baik,$0.00,892,858
+171,19/06/2023,keracunan,Kurang baik,$0.00,925,542
+172,15/12/2023,infeksi bakteri,Cukup baik,$0.00,355,703
+173,19/01/2023,keracunan,Baik,$0.00,368,49
+174,06/03/2023,keracunan,Sangat baik,$0.00,838,439
+175,06/07/2023,cedera fisik,Cukup baik,$0.00,900,913
+176,05/02/2023,infeksi virus,Sangat baik,$0.00,295,980
+177,26/04/2023,keracunan,Tidak baik,$0.00,597,206
+178,17/09/2023,kekurangan nutrisi,Cukup baik,$0.00,543,347
+179,18/03/2023,cedera fisik,Tidak baik,$0.00,458,242
+180,11/10/2023,cedera fisik,Sangat baik,$0.00,276,801
+181,09/01/2023,parasit eksternal,Baik,$0.00,499,628
+182,16/01/2023,parasit eksternal,Sangat baik,$0.00,384,957
+183,01/05/2023,kekurangan nutrisi,Sangat baik,$0.00,70,981
+184,17/09/2023,infeksi virus,Tidak baik,$0.00,621,848
+185,30/05/2023,infeksi virus,Tidak baik,$0.00,344,91
+186,24/05/2023,infeksi virus,Cukup baik,$0.00,241,497
+187,19/11/2023,infeksi virus,Cukup baik,$0.00,947,440
+188,25/09/2023,infeksi virus,Tidak baik,$0.00,267,227
+189,18/11/2023,parasit eksternal,Cukup baik,$0.00,68,849
+190,04/12/2023,gangguan imun,Baik,$0.00,384,957
+191,13/06/2023,infeksi virus,Tidak baik,$0.00,940,58
+192,06/05/2023,keracunan,Kurang baik,$0.00,286,963
+193,11/06/2023,parasit eksternal,Cukup baik,$0.00,712,800
+194,10/03/2023,kekurangan nutrisi,Cukup baik,$0.00,305,483
+195,28/08/2023,infeksi bakteri,Baik,$0.00,295,980
+196,08/12/2023,infeksi virus,Sangat baik,$0.00,126,726
+197,15/07/2023,infeksi bakteri,Baik,$0.00,59,466
+198,17/01/2023,gangguan imun,Cukup baik,$0.00,769,606
+199,02/04/2023,parasit internal,Kurang baik,$0.00,835,655
+200,20/04/2023,infeksi virus,Tidak baik,$0.00,931,530
+201,24/07/2023,kekurangan nutrisi,Kurang baik,$0.00,722,692
+202,12/04/2023,parasit eksternal,Tidak baik,$0.00,872,666
+203,24/04/2023,cedera fisik,Kurang baik,$0.00,97,866
+204,10/11/2023,keracunan,Sangat baik,$0.00,922,574
+205,25/05/2023,parasit eksternal,Sangat baik,$0.00,970,272
+206,03/02/2023,kekurangan nutrisi,Tidak baik,$0.00,912,260
+207,06/07/2023,parasit eksternal,Cukup baik,$0.00,552,880
+208,20/09/2023,parasit eksternal,Kurang baik,$0.00,305,196
+209,01/02/2023,gangguan imun,Sangat baik,$0.00,335,910
+210,06/08/2023,parasit internal,Sangat baik,$0.00,292,228
+211,20/01/2023,kekurangan nutrisi,Kurang baik,$0.00,147,928
+212,04/02/2023,gangguan imun,Tidak baik,$0.00,357,416
+213,15/05/2023,infeksi virus,Baik,$0.00,241,497
+214,28/08/2023,parasit internal,Tidak baik,$0.00,378,208
+215,29/04/2023,infeksi virus,Tidak baik,$0.00,955,380
+216,09/05/2023,kekurangan nutrisi,Sangat baik,$0.00,247,870
+217,14/10/2023,keracunan,Tidak baik,$0.00,863,147
+218,16/11/2023,cedera fisik,Tidak baik,$0.00,961,90
+219,01/07/2023,keracunan,Cukup baik,$0.00,482,664
+220,22/08/2023,parasit internal,Cukup baik,$0.00,820,623
+221,07/12/2023,keracunan,Tidak baik,$0.00,651,479
+222,03/07/2023,cedera fisik,Cukup baik,$0.00,446,209
+223,10/11/2023,keracunan,Tidak baik,$0.00,38,238
+224,16/11/2023,parasit eksternal,Kurang baik,$0.00,349,142
+225,16/11/2023,parasit eksternal,Kurang baik,$0.00,257,152
+226,22/02/2023,parasit internal,Sangat baik,$0.00,38,238
+227,24/02/2023,kekurangan nutrisi,Sangat baik,$0.00,455,108
+228,13/04/2023,kekurangan nutrisi,Tidak baik,$0.00,87,999
+229,07/12/2023,kekurangan nutrisi,Tidak baik,$0.00,529,135
+230,02/08/2023,infeksi bakteri,Sangat baik,$0.00,798,276
+231,07/05/2023,parasit internal,Baik,$0.00,110,73
+232,31/03/2023,infeksi bakteri,Baik,$0.00,911,633
+233,22/10/2023,parasit internal,Cukup baik,$0.00,910,518
+234,06/02/2023,kekurangan nutrisi,Sangat baik,$0.00,546,546
+235,17/04/2023,keracunan,Tidak baik,$0.00,540,862
+236,05/02/2023,gangguan imun,Kurang baik,$0.00,782,669
+237,11/10/2023,infeksi virus,Kurang baik,$0.00,947,440
+238,30/07/2023,infeksi virus,Sangat baik,$0.00,462,901
+239,03/08/2023,infeksi bakteri,Baik,$0.00,813,524
+240,09/04/2023,gangguan imun,Cukup baik,$0.00,667,712
+241,09/05/2023,kekurangan nutrisi,Cukup baik,$0.00,219,199
+242,26/01/2023,parasit eksternal,Cukup baik,$0.00,286,963
+243,03/06/2023,infeksi virus,Baik,$0.00,14,64
+244,24/03/2023,infeksi bakteri,Sangat baik,$0.00,431,682
+245,01/03/2023,infeksi bakteri,Tidak baik,$0.00,842,953
+246,01/02/2023,cedera fisik,Sangat baik,$0.00,946,565
+247,21/09/2023,parasit eksternal,Tidak baik,$0.00,528,956
+248,05/12/2023,infeksi virus,Cukup baik,$0.00,28,467
+249,11/03/2023,kekurangan nutrisi,Sangat baik,$0.00,526,971
+250,14/03/2023,cedera fisik,Sangat baik,$0.00,873,75
+251,05/09/2023,infeksi bakteri,Cukup baik,$0.00,581,786
+252,01/05/2023,parasit eksternal,Cukup baik,$0.00,752,583
+253,29/06/2023,keracunan,Baik,$0.00,391,925
+254,01/04/2023,infeksi bakteri,Sangat baik,$0.00,820,841
+255,07/01/2023,gangguan imun,Baik,$0.00,140,38
+256,05/05/2023,infeksi virus,Cukup baik,$0.00,692,319
+257,21/04/2023,keracunan,Baik,$0.00,798,781
+258,08/11/2023,parasit eksternal,Kurang baik,$0.00,367,77
+259,11/06/2023,infeksi virus,Cukup baik,$0.00,452,454
+260,06/02/2023,keracunan,Baik,$0.00,477,112
+261,05/07/2023,infeksi virus,Kurang baik,$0.00,136,630
+262,03/05/2023,cedera fisik,Sangat baik,$0.00,219,199
+263,11/02/2023,infeksi virus,Baik,$0.00,600,132
+264,31/08/2023,gangguan imun,Sangat baik,$0.00,219,618
+265,04/11/2023,kekurangan nutrisi,Kurang baik,$0.00,793,987
+266,18/06/2023,infeksi bakteri,Baik,$0.00,188,421
+267,12/02/2023,parasit eksternal,Tidak baik,$0.00,863,27
+268,18/11/2023,infeksi bakteri,Cukup baik,$0.00,895,444
+269,11/08/2023,kekurangan nutrisi,Tidak baik,$0.00,801,836
+270,25/07/2023,infeksi bakteri,Tidak baik,$0.00,698,719
+271,03/10/2023,keracunan,Baik,$0.00,989,175
+272,26/06/2023,parasit internal,Cukup baik,$0.00,724,42
+273,22/08/2023,parasit eksternal,Tidak baik,$0.00,95,458
+274,05/07/2023,infeksi bakteri,Sangat baik,$0.00,766,287
+275,01/12/2023,infeksi virus,Kurang baik,$0.00,126,1000
+276,02/04/2023,keracunan,Kurang baik,$0.00,431,23
+277,24/04/2023,infeksi bakteri,Baik,$0.00,837,793
+278,29/09/2023,gangguan imun,Baik,$0.00,840,784
+279,19/08/2023,parasit internal,Kurang baik,$0.00,259,992
+280,22/02/2023,parasit internal,Baik,$0.00,218,475
+281,11/06/2023,kekurangan nutrisi,Cukup baik,$0.00,297,872
+282,19/06/2023,gangguan imun,Tidak baik,$0.00,55,118
+283,27/02/2023,cedera fisik,Baik,$0.00,261,71
+284,25/01/2023,cedera fisik,Tidak baik,$0.00,94,696
+285,13/12/2023,parasit eksternal,Tidak baik,$0.00,211,820
+286,18/05/2023,gangguan imun,Kurang baik,$0.00,240,685
+287,24/09/2023,gangguan imun,Tidak baik,$0.00,902,51
+288,16/06/2023,kekurangan nutrisi,Tidak baik,$0.00,62,516
+289,15/10/2023,cedera fisik,Cukup baik,$0.00,678,20
+290,20/06/2023,gangguan imun,Sangat baik,$0.00,257,152
+291,20/04/2023,gangguan imun,Baik,$0.00,988,867
+292,04/06/2023,infeksi virus,Baik,$0.00,264,471
+293,24/07/2023,cedera fisik,Sangat baik,$0.00,526,686
+294,12/08/2023,infeksi bakteri,Cukup baik,$0.00,686,105
+295,26/07/2023,parasit eksternal,Baik,$0.00,397,423
+296,12/03/2023,cedera fisik,Cukup baik,$0.00,178,605
+297,12/04/2023,parasit eksternal,Kurang baik,$0.00,300,261
+298,11/02/2023,parasit eksternal,Sangat baik,$0.00,117,373
+299,02/07/2023,keracunan,Sangat baik,$0.00,483,100
+300,13/04/2023,parasit internal,Kurang baik,$0.00,292,228
+301,15/05/2023,parasit internal,Cukup baik,$0.00,960,501
+302,10/11/2023,infeksi virus,Sangat baik,$0.00,395,335
+303,11/10/2023,infeksi bakteri,Sangat baik,$0.00,526,686
+304,12/05/2023,cedera fisik,Tidak baik,$0.00,477,112
+305,02/12/2023,infeksi bakteri,Sangat baik,$0.00,356,98
+306,28/11/2023,infeksi virus,Tidak baik,$0.00,56,888
+307,22/11/2023,infeksi bakteri,Tidak baik,$0.00,617,701
+308,29/03/2023,cedera fisik,Cukup baik,$0.00,996,192
+309,02/11/2023,parasit eksternal,Tidak baik,$0.00,928,915
+310,26/07/2023,gangguan imun,Baik,$0.00,110,63
+311,18/07/2023,parasit internal,Kurang baik,$0.00,185,313
+312,19/07/2023,infeksi virus,Baik,$0.00,176,972
+313,23/07/2023,keracunan,Baik,$0.00,610,715
+314,02/02/2023,gangguan imun,Sangat baik,$0.00,156,76
+315,13/06/2023,infeksi bakteri,Sangat baik,$0.00,853,343
+316,30/06/2023,keracunan,Baik,$0.00,905,336
+317,18/09/2023,infeksi bakteri,Kurang baik,$0.00,990,229
+318,02/04/2023,cedera fisik,Baik,$0.00,97,34
+319,08/04/2023,infeksi virus,Kurang baik,$0.00,352,379
+320,13/05/2023,gangguan imun,Kurang baik,$0.00,991,500
+321,17/03/2023,keracunan,Baik,$0.00,284,860
+322,09/04/2023,infeksi virus,Cukup baik,$0.00,293,6
+323,07/10/2023,infeksi bakteri,Baik,$0.00,257,152
+324,28/10/2023,kekurangan nutrisi,Cukup baik,$0.00,683,457
+325,02/01/2023,parasit internal,Tidak baik,$0.00,81,677
+326,13/08/2023,gangguan imun,Baik,$0.00,267,899
+327,07/09/2023,parasit internal,Sangat baik,$0.00,925,542
+328,18/09/2023,parasit eksternal,Cukup baik,$0.00,345,5
+329,10/12/2023,parasit internal,Baik,$0.00,872,666
+330,04/01/2023,infeksi virus,Kurang baik,$0.00,890,771
+331,31/10/2023,cedera fisik,Tidak baik,$0.00,805,200
+332,19/07/2023,infeksi virus,Tidak baik,$0.00,372,87
+333,23/05/2023,infeksi virus,Tidak baik,$0.00,490,257
+334,11/02/2023,gangguan imun,Cukup baik,$0.00,176,972
+335,23/10/2023,infeksi bakteri,Cukup baik,$0.00,471,289
+336,16/05/2023,cedera fisik,Tidak baik,$0.00,137,11
+337,06/09/2023,parasit internal,Sangat baik,$0.00,184,702
+338,20/06/2023,cedera fisik,Cukup baik,$0.00,448,307
+339,23/06/2023,kekurangan nutrisi,Sangat baik,$0.00,6,588
+340,28/02/2023,infeksi virus,Kurang baik,$0.00,845,522
+341,24/04/2023,kekurangan nutrisi,Sangat baik,$0.00,131,234
+342,05/08/2023,parasit eksternal,Baik,$0.00,286,963
+343,20/01/2023,infeksi virus,Sangat baik,$0.00,597,206
+344,25/07/2023,parasit internal,Kurang baik,$0.00,292,228
+345,24/11/2023,cedera fisik,Tidak baik,$0.00,291,356
+346,06/02/2023,infeksi virus,Sangat baik,$0.00,161,394
+347,30/01/2023,cedera fisik,Cukup baik,$0.00,523,414
+348,01/09/2023,kekurangan nutrisi,Tidak baik,$0.00,275,311
+349,22/05/2023,keracunan,Kurang baik,$0.00,221,973
+350,03/03/2023,cedera fisik,Kurang baik,$0.00,826,225
+351,11/08/2023,cedera fisik,Baik,$0.00,10,291
+352,13/08/2023,gangguan imun,Cukup baik,$0.00,931,853
+353,30/03/2023,infeksi virus,Kurang baik,$0.00,762,223
+354,09/09/2023,infeksi virus,Cukup baik,$0.00,161,394
+355,15/05/2023,gangguan imun,Cukup baik,$0.00,801,836
+356,19/04/2023,parasit internal,Baik,$0.00,381,548
+357,04/07/2023,cedera fisik,Sangat baik,$0.00,33,129
+358,28/04/2023,parasit eksternal,Kurang baik,$0.00,527,328
+359,09/12/2023,infeksi virus,Cukup baik,$0.00,798,387
+360,20/11/2023,cedera fisik,Kurang baik,$0.00,815,991
+361,03/04/2023,kekurangan nutrisi,Tidak baik,$0.00,960,501
+362,07/12/2023,parasit internal,Cukup baik,$0.00,920,493
+363,03/03/2023,infeksi bakteri,Cukup baik,$0.00,294,309
+364,11/10/2023,cedera fisik,Baik,$0.00,379,498
+365,23/01/2023,kekurangan nutrisi,Kurang baik,$0.00,810,631
+366,23/04/2023,infeksi bakteri,Baik,$0.00,13,478
+367,11/08/2023,parasit eksternal,Kurang baik,$0.00,798,387
+368,09/10/2023,keracunan,Cukup baik,$0.00,868,232
+369,16/06/2023,gangguan imun,Cukup baik,$0.00,408,789
+370,04/05/2023,infeksi virus,Baik,$0.00,949,130
+371,06/05/2023,kekurangan nutrisi,Baik,$0.00,902,876
+372,13/06/2023,cedera fisik,Tidak baik,$0.00,913,843
+373,03/10/2023,cedera fisik,Baik,$0.00,926,773
+374,10/04/2023,infeksi virus,Tidak baik,$0.00,935,889
+375,15/09/2023,cedera fisik,Tidak baik,$0.00,523,414
+376,18/03/2023,cedera fisik,Tidak baik,$0.00,880,515
+377,24/02/2023,parasit eksternal,Baik,$0.00,440,629
+378,18/10/2023,infeksi bakteri,Baik,$0.00,620,543
+379,08/12/2023,kekurangan nutrisi,Baik,$0.00,483,100
+380,28/08/2023,parasit internal,Cukup baik,$0.00,792,861
+381,02/08/2023,parasit internal,Baik,$0.00,476,277
+382,19/10/2023,infeksi bakteri,Sangat baik,$0.00,335,910
+383,24/07/2023,keracunan,Baik,$0.00,320,417
+384,19/06/2023,kekurangan nutrisi,Baik,$0.00,918,742
+385,16/11/2023,parasit internal,Cukup baik,$0.00,829,920
+386,27/02/2023,parasit eksternal,Sangat baik,$0.00,254,437
+387,14/07/2023,cedera fisik,Sangat baik,$0.00,813,46
+388,13/12/2023,cedera fisik,Cukup baik,$0.00,894,282
+389,14/11/2023,parasit internal,Sangat baik,$0.00,312,116
+390,05/06/2023,gangguan imun,Sangat baik,$0.00,56,888
+391,17/07/2023,parasit internal,Kurang baik,$0.00,252,488
+392,06/01/2023,cedera fisik,Tidak baik,$0.00,75,855
+393,16/03/2023,keracunan,Tidak baik,$0.00,386,627
+394,17/07/2023,parasit internal,Kurang baik,$0.00,266,248
+395,17/01/2023,infeksi virus,Kurang baik,$0.00,833,948
+396,20/11/2023,infeksi virus,Baik,$0.00,668,684
+397,18/02/2023,gangguan imun,Sangat baik,$0.00,484,149
+398,28/03/2023,infeksi virus,Cukup baik,$0.00,193,396
+399,23/04/2023,parasit eksternal,Sangat baik,$0.00,835,655
+400,02/04/2023,cedera fisik,Cukup baik,$0.00,531,243
+401,08/07/2023,gangguan imun,Baik,$0.00,840,784
+402,10/09/2023,keracunan,Tidak baik,$0.00,634,357
+403,29/01/2023,parasit eksternal,Baik,$0.00,117,373
+404,17/01/2023,keracunan,Cukup baik,$0.00,619,8
+405,11/03/2023,infeksi bakteri,Tidak baik,$0.00,831,767
+406,15/02/2023,parasit internal,Baik,$0.00,853,122
+407,21/10/2023,keracunan,Baik,$0.00,356,98
+408,16/07/2023,kekurangan nutrisi,Cukup baik,$0.00,745,300
+409,26/07/2023,parasit internal,Cukup baik,$0.00,178,605
+410,16/07/2023,parasit eksternal,Tidak baik,$0.00,479,166
+411,18/01/2023,cedera fisik,Tidak baik,$0.00,881,782
+412,22/05/2023,gangguan imun,Tidak baik,$0.00,159,29
+413,29/07/2023,parasit eksternal,Cukup baik,$0.00,232,799
+414,21/03/2023,gangguan imun,Baik,$0.00,156,453
+415,27/10/2023,kekurangan nutrisi,Sangat baik,$0.00,293,6
+416,22/07/2023,infeksi bakteri,Baik,$0.00,239,246
+417,22/03/2023,gangguan imun,Sangat baik,$0.00,685,724
+418,01/11/2023,gangguan imun,Cukup baik,$0.00,881,998
+419,08/03/2023,keracunan,Tidak baik,$0.00,869,608
+420,17/08/2023,infeksi virus,Sangat baik,$0.00,771,768
+421,15/09/2023,parasit internal,Baik,$0.00,38,954
+422,12/10/2023,parasit internal,Cukup baik,$0.00,511,463
+423,03/02/2023,keracunan,Sangat baik,$0.00,294,193
+424,08/11/2023,cedera fisik,Baik,$0.00,90,484
+425,26/09/2023,keracunan,Cukup baik,$0.00,539,772
+426,16/06/2023,keracunan,Kurang baik,$0.00,904,350
+427,12/05/2023,kekurangan nutrisi,Sangat baik,$0.00,989,175
+428,16/09/2023,cedera fisik,Baik,$0.00,181,33
+429,16/09/2023,parasit eksternal,Baik,$0.00,213,667
+430,23/03/2023,keracunan,Kurang baik,$0.00,736,947
+431,14/04/2023,infeksi bakteri,Cukup baik,$0.00,397,37
+432,02/01/2023,keracunan,Sangat baik,$0.00,60,923
+433,20/07/2023,cedera fisik,Kurang baik,$0.00,388,544
+434,25/05/2023,infeksi virus,Tidak baik,$0.00,69,632
+435,21/09/2023,infeksi virus,Cukup baik,$0.00,534,41
+436,19/04/2023,cedera fisik,Cukup baik,$0.00,16,50
+437,22/03/2023,gangguan imun,Kurang baik,$0.00,186,803
+438,13/03/2023,gangguan imun,Sangat baik,$0.00,587,124
+439,16/02/2023,cedera fisik,Kurang baik,$0.00,94,696
+440,22/04/2023,kekurangan nutrisi,Kurang baik,$0.00,773,537
+441,01/09/2023,infeksi bakteri,Tidak baik,$0.00,913,297
+442,04/08/2023,keracunan,Kurang baik,$0.00,675,491
+443,16/02/2023,infeksi bakteri,Tidak baik,$0.00,808,557
+444,07/07/2023,parasit internal,Sangat baik,$0.00,251,337
+445,09/08/2023,keracunan,Baik,$0.00,194,602
+446,21/01/2023,cedera fisik,Sangat baik,$0.00,26,614
+447,29/10/2023,cedera fisik,Tidak baik,$0.00,281,558
+448,11/06/2023,gangguan imun,Tidak baik,$0.00,996,192
+449,14/08/2023,kekurangan nutrisi,Tidak baik,$0.00,188,421
+450,08/06/2023,gangguan imun,Tidak baik,$0.00,294,309
+451,16/02/2023,parasit eksternal,Baik,$0.00,21,495
+452,16/07/2023,gangguan imun,Kurang baik,$0.00,132,919
+453,19/04/2023,infeksi virus,Tidak baik,$0.00,299,507
+454,05/09/2023,keracunan,Cukup baik,$0.00,126,726
+455,22/07/2023,keracunan,Tidak baik,$0.00,722,692
+456,25/03/2023,parasit eksternal,Cukup baik,$0.00,285,845
+457,28/02/2023,infeksi virus,Cukup baik,$0.00,137,11
+458,28/10/2023,infeksi virus,Sangat baik,$0.00,556,84
+459,24/01/2023,kekurangan nutrisi,Kurang baik,$0.00,712,800
+460,09/01/2023,keracunan,Tidak baik,$0.00,253,921
+461,01/11/2023,parasit eksternal,Kurang baik,$0.00,935,889
+462,08/09/2023,gangguan imun,Baik,$0.00,877,553
+463,06/09/2023,parasit internal,Sangat baik,$0.00,425,905
+464,21/06/2023,infeksi virus,Kurang baik,$0.00,742,425
+465,10/06/2023,cedera fisik,Sangat baik,$0.00,655,898
+466,24/01/2023,kekurangan nutrisi,Sangat baik,$0.00,105,482
+467,12/06/2023,keracunan,Tidak baik,$0.00,103,284
+468,14/01/2023,gangguan imun,Sangat baik,$0.00,926,773
+469,03/08/2023,infeksi virus,Tidak baik,$0.00,664,863
+470,30/05/2023,parasit internal,Sangat baik,$0.00,13,376
+471,27/04/2023,cedera fisik,Baik,$0.00,566,764
+472,24/09/2023,infeksi bakteri,Baik,$0.00,691,879
+473,12/02/2023,gangguan imun,Baik,$0.00,964,587
+474,02/07/2023,gangguan imun,Sangat baik,$0.00,907,752
+475,19/05/2023,infeksi virus,Baik,$0.00,391,925
+476,19/01/2023,parasit internal,Tidak baik,$0.00,349,811
+477,06/10/2023,gangguan imun,Sangat baik,$0.00,357,9
+478,20/05/2023,kekurangan nutrisi,Kurang baik,$0.00,491,487
+479,17/11/2023,infeksi bakteri,Baik,$0.00,286,963
+480,28/11/2023,parasit internal,Cukup baik,$0.00,971,32
+481,20/09/2023,cedera fisik,Baik,$0.00,247,969
+482,02/06/2023,infeksi bakteri,Kurang baik,$0.00,401,503
+483,15/09/2023,infeksi bakteri,Kurang baik,$0.00,922,574
+484,09/01/2023,infeksi virus,Tidak baik,$0.00,874,342
+485,06/07/2023,infeksi bakteri,Sangat baik,$0.00,500,21
+486,31/07/2023,kekurangan nutrisi,Cukup baik,$0.00,337,226
+487,23/06/2023,gangguan imun,Baik,$0.00,285,202
+488,11/07/2023,infeksi virus,Sangat baik,$0.00,866,744
+489,18/11/2023,parasit eksternal,Cukup baik,$0.00,773,670
+490,07/02/2023,cedera fisik,Baik,$0.00,118,688
+491,01/05/2023,infeksi bakteri,Baik,$0.00,291,698
+492,22/07/2023,infeksi bakteri,Tidak baik,$0.00,734,7
+493,10/10/2023,keracunan,Kurang baik,$0.00,881,796
+494,31/03/2023,cedera fisik,Sangat baik,$0.00,716,236
+495,08/10/2023,parasit internal,Sangat baik,$0.00,779,687
+496,16/05/2023,parasit internal,Sangat baik,$0.00,299,507
+497,19/06/2023,keracunan,Kurang baik,$0.00,807,926
+498,28/05/2023,keracunan,Baik,$0.00,956,566
+499,24/03/2023,parasit eksternal,Baik,$0.00,762,223
+500,07/06/2023,kekurangan nutrisi,Sangat baik,$0.00,907,854
+501,10/06/2023,keracunan,Kurang baik,$0.00,118,688
+502,13/05/2023,cedera fisik,Sangat baik,$0.00,772,668
+503,02/09/2023,parasit internal,Baik,$0.00,359,556
+504,07/07/2023,parasit internal,Sangat baik,$0.00,359,983
+505,29/05/2023,cedera fisik,Baik,$0.00,647,673
+506,13/01/2023,infeksi bakteri,Baik,$0.00,799,826
+507,02/12/2023,infeksi bakteri,Tidak baik,$0.00,391,481
+508,22/08/2023,infeksi virus,Tidak baik,$0.00,841,456
+509,19/01/2023,parasit internal,Sangat baik,$0.00,965,178
+510,03/12/2023,keracunan,Sangat baik,$0.00,979,950
+511,26/08/2023,cedera fisik,Cukup baik,$0.00,907,621
+512,03/04/2023,gangguan imun,Sangat baik,$0.00,890,771
+513,14/12/2023,parasit internal,Tidak baik,$0.00,636,55
+514,11/04/2023,gangguan imun,Baik,$0.00,384,761
+515,05/04/2023,keracunan,Baik,$0.00,729,976
+516,29/09/2023,parasit internal,Sangat baik,$0.00,925,330
+517,15/02/2023,infeksi virus,Kurang baik,$0.00,133,54
+518,01/05/2023,infeksi bakteri,Kurang baik,$0.00,235,445
+519,07/11/2023,parasit internal,Cukup baik,$0.00,431,682
+520,12/04/2023,kekurangan nutrisi,Tidak baik,$0.00,907,97
+521,16/10/2023,parasit internal,Baik,$0.00,112,573
+522,22/11/2023,cedera fisik,Cukup baik,$0.00,845,163
+523,05/08/2023,cedera fisik,Baik,$0.00,403,386
+524,04/01/2023,parasit internal,Cukup baik,$0.00,5,1
+525,02/12/2023,cedera fisik,Kurang baik,$0.00,417,211
+526,27/09/2023,parasit eksternal,Baik,$0.00,172,170
+527,09/05/2023,kekurangan nutrisi,Cukup baik,$0.00,828,408
+528,28/07/2023,parasit eksternal,Baik,$0.00,412,936
+529,20/05/2023,cedera fisik,Baik,$0.00,838,439
+530,28/10/2023,keracunan,Cukup baik,$0.00,587,82
+531,07/07/2023,parasit internal,Kurang baik,$0.00,439,700
+532,03/08/2023,parasit eksternal,Cukup baik,$0.00,830,145
+533,26/05/2023,gangguan imun,Baik,$0.00,87,999
+534,11/11/2023,parasit eksternal,Baik,$0.00,291,995
+535,16/02/2023,parasit internal,Baik,$0.00,313,658
+536,06/02/2023,keracunan,Kurang baik,$0.00,344,91
+537,07/02/2023,parasit eksternal,Kurang baik,$0.00,920,493
+538,05/03/2023,gangguan imun,Cukup baik,$0.00,310,198
+539,09/01/2023,infeksi virus,Baik,$0.00,937,451
+540,31/03/2023,parasit internal,Tidak baik,$0.00,493,509
+541,26/05/2023,cedera fisik,Tidak baik,$0.00,425,651
+542,23/04/2023,infeksi virus,Kurang baik,$0.00,742,425
+543,23/03/2023,parasit internal,Kurang baik,$0.00,403,386
+544,19/07/2023,keracunan,Tidak baik,$0.00,494,847
+545,10/08/2023,kekurangan nutrisi,Baik,$0.00,630,838
+546,17/08/2023,parasit internal,Cukup baik,$0.00,625,214
+547,28/07/2023,gangguan imun,Tidak baik,$0.00,144,815
+548,19/04/2023,infeksi bakteri,Cukup baik,$0.00,112,24
+549,26/11/2023,keracunan,Baik,$0.00,382,979
+550,27/06/2023,parasit eksternal,Sangat baik,$0.00,309,499
+551,17/07/2023,infeksi bakteri,Baik,$0.00,691,661
+552,09/04/2023,infeksi virus,Tidak baik,$0.00,408,4
+553,19/08/2023,parasit internal,Sangat baik,$0.00,907,97
+554,14/07/2023,parasit internal,Cukup baik,$0.00,161,394
+555,09/10/2023,infeksi virus,Sangat baik,$0.00,195,946
+556,13/04/2023,gangguan imun,Cukup baik,$0.00,840,784
+557,11/01/2023,cedera fisik,Cukup baik,$0.00,495,422
+558,26/11/2023,parasit eksternal,Cukup baik,$0.00,478,798
+559,05/08/2023,keracunan,Tidak baik,$0.00,587,124
+560,13/09/2023,cedera fisik,Tidak baik,$0.00,559,103
+561,30/11/2023,kekurangan nutrisi,Kurang baik,$0.00,537,580
+562,29/06/2023,keracunan,Tidak baik,$0.00,55,162
+563,07/09/2023,kekurangan nutrisi,Sangat baik,$0.00,448,307
+564,02/06/2023,cedera fisik,Kurang baik,$0.00,926,611
+565,01/03/2023,infeksi bakteri,Kurang baik,$0.00,234,568
+566,28/01/2023,gangguan imun,Sangat baik,$0.00,903,138
+567,20/06/2023,cedera fisik,Sangat baik,$0.00,505,383
+568,09/05/2023,infeksi virus,Kurang baik,$0.00,681,642
+569,15/11/2023,keracunan,Sangat baik,$0.00,379,95
+570,11/01/2023,keracunan,Sangat baik,$0.00,344,464
+571,03/05/2023,infeksi virus,Cukup baik,$0.00,523,414
+572,08/06/2023,keracunan,Sangat baik,$0.00,771,768
+573,10/01/2023,infeksi virus,Kurang baik,$0.00,75,855
+574,06/11/2023,infeksi virus,Sangat baik,$0.00,221,140
+575,11/07/2023,parasit eksternal,Baik,$0.00,265,619
+576,04/05/2023,keracunan,Cukup baik,$0.00,378,208
+577,11/02/2023,gangguan imun,Tidak baik,$0.00,893,931
+578,25/07/2023,infeksi virus,Tidak baik,$0.00,691,43
+579,31/05/2023,parasit internal,Baik,$0.00,697,839
+580,02/07/2023,parasit eksternal,Sangat baik,$0.00,982,609
+581,19/01/2023,kekurangan nutrisi,Tidak baik,$0.00,565,532
+582,27/06/2023,keracunan,Tidak baik,$0.00,309,499
+583,28/06/2023,kekurangan nutrisi,Sangat baik,$0.00,845,163
+584,18/07/2023,keracunan,Sangat baik,$0.00,386,93
+585,19/03/2023,parasit internal,Cukup baik,$0.00,608,716
+586,12/03/2023,gangguan imun,Baik,$0.00,599,288
+587,07/01/2023,kekurangan nutrisi,Sangat baik,$0.00,772,668
+588,23/10/2023,cedera fisik,Sangat baik,$0.00,60,923
+589,11/05/2023,parasit eksternal,Cukup baik,$0.00,372,87
+590,18/01/2023,parasit internal,Kurang baik,$0.00,831,25
+591,05/10/2023,kekurangan nutrisi,Kurang baik,$0.00,933,59
+592,11/10/2023,kekurangan nutrisi,Tidak baik,$0.00,769,606
+593,22/11/2023,parasit eksternal,Kurang baik,$0.00,72,893
+594,13/12/2023,parasit eksternal,Tidak baik,$0.00,569,477
+595,01/04/2023,parasit eksternal,Sangat baik,$0.00,274,190
+596,31/03/2023,parasit eksternal,Kurang baik,$0.00,451,3
+597,27/01/2023,infeksi virus,Cukup baik,$0.00,807,926
+598,30/05/2023,kekurangan nutrisi,Baik,$0.00,105,482
+599,29/03/2023,kekurangan nutrisi,Sangat baik,$0.00,411,924
+600,08/09/2023,gangguan imun,Sangat baik,$0.00,537,580
+601,13/02/2023,infeksi bakteri,Tidak baik,$0.00,931,853
+602,10/03/2023,kekurangan nutrisi,Sangat baik,$0.00,164,370
+603,05/01/2023,cedera fisik,Sangat baik,$0.00,920,598
+604,07/09/2023,infeksi bakteri,Baik,$0.00,796,900
+605,20/10/2023,parasit eksternal,Baik,$0.00,881,796
+606,03/09/2023,infeksi virus,Tidak baik,$0.00,701,486
+607,29/07/2023,infeksi bakteri,Baik,$0.00,349,142
+608,05/02/2023,infeksi virus,Sangat baik,$0.00,233,962
+609,09/02/2023,kekurangan nutrisi,Kurang baik,$0.00,897,61
+610,26/07/2023,parasit internal,Baik,$0.00,585,563
+611,21/02/2023,keracunan,Sangat baik,$0.00,112,24
+612,01/08/2023,keracunan,Sangat baik,$0.00,561,529
+613,22/07/2023,infeksi virus,Baik,$0.00,1,446
+614,03/07/2023,kekurangan nutrisi,Cukup baik,$0.00,565,66
+615,10/07/2023,cedera fisik,Sangat baik,$0.00,150,114
+616,15/10/2023,parasit internal,Cukup baik,$0.00,894,282
+617,28/08/2023,infeksi bakteri,Sangat baik,$0.00,863,410
+618,25/07/2023,keracunan,Sangat baik,$0.00,771,768
+619,22/06/2023,parasit eksternal,Kurang baik,$0.00,378,511
+620,28/09/2023,infeksi virus,Cukup baik,$0.00,132,919
+621,01/12/2023,kekurangan nutrisi,Tidak baik,$0.00,38,576
+622,10/08/2023,parasit eksternal,Baik,$0.00,300,261
+623,05/04/2023,parasit eksternal,Cukup baik,$0.00,527,328
+624,02/12/2023,parasit eksternal,Baik,$0.00,328,825
+625,27/06/2023,kekurangan nutrisi,Tidak baik,$0.00,947,440
+626,06/01/2023,parasit internal,Baik,$0.00,456,788
+627,08/11/2023,kekurangan nutrisi,Tidak baik,$0.00,752,583
+628,03/04/2023,kekurangan nutrisi,Kurang baik,$0.00,799,826
+629,09/09/2023,cedera fisik,Baik,$0.00,565,532
+630,01/03/2023,kekurangan nutrisi,Tidak baik,$0.00,195,946
+631,08/04/2023,infeksi virus,Kurang baik,$0.00,96,470
+632,25/03/2023,kekurangan nutrisi,Cukup baik,$0.00,724,42
+633,17/03/2023,kekurangan nutrisi,Sangat baik,$0.00,546,88
+634,19/08/2023,parasit internal,Tidak baik,$0.00,132,78
+635,10/09/2023,parasit internal,Kurang baik,$0.00,474,710
+636,04/02/2023,gangguan imun,Baik,$0.00,87,182
+637,22/03/2023,cedera fisik,Kurang baik,$0.00,608,716
+638,06/08/2023,infeksi bakteri,Cukup baik,$0.00,210,264
+639,25/05/2023,infeksi virus,Sangat baik,$0.00,908,371
+640,20/06/2023,gangguan imun,Tidak baik,$0.00,214,428
+641,09/05/2023,gangguan imun,Sangat baik,$0.00,762,223
+642,07/07/2023,parasit internal,Sangat baik,$0.00,964,737
+643,07/02/2023,keracunan,Tidak baik,$0.00,456,711
+644,18/05/2023,infeksi bakteri,Cukup baik,$0.00,468,317
+645,30/04/2023,kekurangan nutrisi,Baik,$0.00,767,462
+646,01/02/2023,cedera fisik,Tidak baik,$0.00,136,339
+647,06/10/2023,cedera fisik,Kurang baik,$0.00,842,266
+648,24/07/2023,infeksi virus,Sangat baik,$0.00,14,582
+649,05/02/2023,parasit eksternal,Sangat baik,$0.00,329,205
+650,17/09/2023,infeksi virus,Tidak baik,$0.00,546,351
+651,21/03/2023,gangguan imun,Cukup baik,$0.00,522,96
+652,24/09/2023,infeksi virus,Baik,$0.00,822,183
+653,22/06/2023,parasit internal,Sangat baik,$0.00,26,614
+654,29/01/2023,gangguan imun,Sangat baik,$0.00,779,687
+655,17/05/2023,parasit eksternal,Sangat baik,$0.00,355,607
+656,20/05/2023,keracunan,Cukup baik,$0.00,744,397
+657,04/09/2023,infeksi virus,Kurang baik,$0.00,488,964
+658,24/05/2023,cedera fisik,Baik,$0.00,781,468
+659,19/08/2023,infeksi bakteri,Sangat baik,$0.00,228,531
+660,04/09/2023,cedera fisik,Tidak baik,$0.00,294,309
+661,16/10/2023,infeksi virus,Cukup baik,$0.00,364,279
+662,03/12/2023,infeksi virus,Cukup baik,$0.00,829,920
+663,16/01/2023,parasit eksternal,Baik,$0.00,907,269
+664,24/03/2023,kekurangan nutrisi,Cukup baik,$0.00,615,436
+665,30/03/2023,kekurangan nutrisi,Sangat baik,$0.00,373,188
+666,07/08/2023,gangguan imun,Kurang baik,$0.00,397,423
+667,10/08/2023,parasit eksternal,Baik,$0.00,904,244
+668,04/05/2023,parasit internal,Cukup baik,$0.00,97,866
+669,14/07/2023,kekurangan nutrisi,Baik,$0.00,291,356
+670,24/10/2023,kekurangan nutrisi,Kurang baik,$0.00,912,13
+671,14/04/2023,cedera fisik,Sangat baik,$0.00,256,662
+672,10/12/2023,parasit internal,Tidak baik,$0.00,178,823
+673,03/11/2023,kekurangan nutrisi,Sangat baik,$0.00,873,318
+674,12/05/2023,keracunan,Baik,$0.00,745,300
+675,01/02/2023,parasit eksternal,Kurang baik,$0.00,313,658
+676,28/04/2023,infeksi bakteri,Tidak baik,$0.00,344,745
+677,26/08/2023,cedera fisik,Sangat baik,$0.00,476,277
+678,13/12/2023,cedera fisik,Sangat baik,$0.00,456,711
+679,08/06/2023,infeksi virus,Baik,$0.00,702,638
+680,16/10/2023,keracunan,Cukup baik,$0.00,881,940
+681,19/09/2023,gangguan imun,Tidak baik,$0.00,184,975
+682,11/06/2023,keracunan,Cukup baik,$0.00,147,928
+683,13/08/2023,infeksi bakteri,Tidak baik,$0.00,621,540
+684,16/11/2023,parasit eksternal,Tidak baik,$0.00,711,361
+685,03/06/2023,infeksi virus,Kurang baik,$0.00,367,48
+686,10/06/2023,cedera fisik,Sangat baik,$0.00,657,341
+687,07/06/2023,parasit eksternal,Cukup baik,$0.00,663,740
+688,25/09/2023,gangguan imun,Baik,$0.00,628,974
+689,21/11/2023,parasit eksternal,Cukup baik,$0.00,378,121
+690,09/01/2023,parasit internal,Baik,$0.00,767,958
+691,14/02/2023,infeksi virus,Cukup baik,$0.00,734,433
+692,28/02/2023,parasit eksternal,Tidak baik,$0.00,549,26
+693,02/05/2023,cedera fisik,Kurang baik,$0.00,278,534
+694,21/02/2023,parasit eksternal,Kurang baik,$0.00,401,503
+695,13/09/2023,infeksi bakteri,Sangat baik,$0.00,297,353
+696,06/02/2023,parasit eksternal,Kurang baik,$0.00,660,763
+697,18/05/2023,keracunan,Sangat baik,$0.00,240,674
+698,06/05/2023,infeksi virus,Tidak baik,$0.00,30,176
+699,16/04/2023,infeksi virus,Kurang baik,$0.00,81,19
+700,11/05/2023,parasit eksternal,Sangat baik,$0.00,881,796
+701,30/01/2023,keracunan,Sangat baik,$0.00,276,801
+702,23/01/2023,gangguan imun,Kurang baik,$0.00,210,264
+703,24/01/2023,infeksi virus,Tidak baik,$0.00,734,433
+704,04/11/2023,keracunan,Baik,$0.00,105,308
+705,04/11/2023,parasit eksternal,Kurang baik,$0.00,691,879
+706,23/04/2023,cedera fisik,Kurang baik,$0.00,218,758
+707,27/02/2023,kekurangan nutrisi,Tidak baik,$0.00,671,352
+708,15/09/2023,infeksi bakteri,Kurang baik,$0.00,744,397
+709,04/09/2023,gangguan imun,Kurang baik,$0.00,13,478
+710,09/09/2023,kekurangan nutrisi,Sangat baik,$0.00,523,414
+711,07/08/2023,parasit eksternal,Kurang baik,$0.00,648,689
+712,08/10/2023,gangguan imun,Cukup baik,$0.00,716,236
+713,23/11/2023,keracunan,Cukup baik,$0.00,904,894
+714,04/01/2023,cedera fisik,Kurang baik,$0.00,828,408
+715,27/03/2023,infeksi virus,Cukup baik,$0.00,68,849
+716,15/09/2023,infeksi virus,Sangat baik,$0.00,918,869
+717,29/03/2023,parasit internal,Cukup baik,$0.00,70,981
+718,07/10/2023,infeksi bakteri,Tidak baik,$0.00,565,532
+719,05/05/2023,cedera fisik,Tidak baik,$0.00,239,246
+720,15/04/2023,keracunan,Baik,$0.00,807,413
+721,04/04/2023,kekurangan nutrisi,Kurang baik,$0.00,514,718
+722,23/08/2023,cedera fisik,Baik,$0.00,611,759
+723,16/02/2023,infeksi virus,Cukup baik,$0.00,931,530
+724,22/08/2023,infeksi virus,Cukup baik,$0.00,829,920
+725,15/11/2023,infeksi virus,Tidak baik,$0.00,164,370
+726,05/03/2023,gangguan imun,Cukup baik,$0.00,885,833
+727,19/05/2023,parasit eksternal,Baik,$0.00,149,911
+728,18/07/2023,infeksi bakteri,Sangat baik,$0.00,741,934
+729,15/03/2023,parasit eksternal,Cukup baik,$0.00,379,255
+730,27/02/2023,infeksi virus,Cukup baik,$0.00,522,96
+731,15/04/2023,gangguan imun,Tidak baik,$0.00,275,224
+732,28/08/2023,parasit internal,Sangat baik,$0.00,484,149
+733,29/08/2023,kekurangan nutrisi,Baik,$0.00,19,804
+734,03/12/2023,keracunan,Baik,$0.00,827,315
+735,21/06/2023,keracunan,Cukup baik,$0.00,258,322
+736,07/03/2023,infeksi bakteri,Cukup baik,$0.00,379,498
+737,24/09/2023,kekurangan nutrisi,Baik,$0.00,243,333
+738,17/11/2023,infeksi bakteri,Baik,$0.00,866,751
+739,08/09/2023,cedera fisik,Kurang baik,$0.00,349,142
+740,02/07/2023,parasit internal,Tidak baik,$0.00,95,458
+741,09/08/2023,kekurangan nutrisi,Tidak baik,$0.00,783,89
+742,27/07/2023,gangguan imun,Kurang baik,$0.00,971,32
+743,16/10/2023,kekurangan nutrisi,Kurang baik,$0.00,873,520
+744,02/01/2023,cedera fisik,Tidak baik,$0.00,219,139
+745,11/11/2023,gangguan imun,Tidak baik,$0.00,146,489
+746,03/02/2023,keracunan,Sangat baik,$0.00,877,553
+747,21/06/2023,parasit eksternal,Kurang baik,$0.00,762,859
+748,31/03/2023,parasit internal,Sangat baik,$0.00,232,799
+749,13/03/2023,gangguan imun,Cukup baik,$0.00,794,80
+750,10/02/2023,keracunan,Sangat baik,$0.00,19,817
+751,01/09/2023,gangguan imun,Kurang baik,$0.00,784,249
+752,10/02/2023,keracunan,Kurang baik,$0.00,386,93
+753,19/03/2023,infeksi virus,Kurang baik,$0.00,108,235
+754,24/11/2023,infeksi bakteri,Tidak baik,$0.00,702,828
+755,15/04/2023,kekurangan nutrisi,Baik,$0.00,928,871
+756,07/08/2023,infeksi bakteri,Tidak baik,$0.00,286,963
+757,02/09/2023,infeksi virus,Baik,$0.00,866,751
+758,10/08/2023,cedera fisik,Kurang baik,$0.00,622,221
+759,23/03/2023,parasit eksternal,Sangat baik,$0.00,430,885
+760,28/04/2023,infeksi bakteri,Baik,$0.00,105,308
+761,12/02/2023,kekurangan nutrisi,Sangat baik,$0.00,378,511
+762,24/03/2023,parasit internal,Cukup baik,$0.00,934,977
+763,11/10/2023,kekurangan nutrisi,Cukup baik,$0.00,651,479
+764,23/01/2023,parasit internal,Baik,$0.00,395,335
+765,28/08/2023,infeksi bakteri,Kurang baik,$0.00,845,163
+766,01/12/2023,infeksi virus,Baik,$0.00,29,887
+767,13/05/2023,parasit internal,Tidak baik,$0.00,756,126
+768,04/07/2023,parasit eksternal,Baik,$0.00,139,107
+769,18/02/2023,gangguan imun,Baik,$0.00,729,584
+770,13/05/2023,gangguan imun,Baik,$0.00,615,436
+771,19/07/2023,infeksi bakteri,Tidak baik,$0.00,552,880
+772,15/01/2023,kekurangan nutrisi,Kurang baik,$0.00,294,432
+773,15/07/2023,gangguan imun,Sangat baik,$0.00,961,90
+774,22/11/2023,cedera fisik,Cukup baik,$0.00,840,784
+775,02/01/2023,parasit internal,Kurang baik,$0.00,922,574
+776,19/05/2023,parasit eksternal,Baik,$0.00,780,713
+777,08/06/2023,gangguan imun,Sangat baik,$0.00,305,196
+778,27/01/2023,parasit internal,Sangat baik,$0.00,389,195
+779,21/11/2023,gangguan imun,Kurang baik,$0.00,546,88
+780,02/06/2023,cedera fisik,Baik,$0.00,691,43
+781,01/07/2023,infeksi virus,Cukup baik,$0.00,633,305
+782,09/03/2023,gangguan imun,Kurang baik,$0.00,668,684
+783,11/01/2023,parasit internal,Kurang baik,$0.00,407,663
+784,18/11/2023,keracunan,Baik,$0.00,741,934
+785,05/05/2023,cedera fisik,Tidak baik,$0.00,240,685
+786,06/12/2023,keracunan,Kurang baik,$0.00,397,562
+787,21/07/2023,keracunan,Cukup baik,$0.00,297,353
+788,09/12/2023,gangguan imun,Baik,$0.00,113,949
+789,19/09/2023,parasit internal,Baik,$0.00,858,164
+790,16/11/2023,cedera fisik,Tidak baik,$0.00,502,966
+791,28/04/2023,parasit eksternal,Sangat baik,$0.00,241,74
+792,17/02/2023,gangguan imun,Kurang baik,$0.00,784,249
+793,16/03/2023,kekurangan nutrisi,Tidak baik,$0.00,275,222
+794,20/06/2023,kekurangan nutrisi,Sangat baik,$0.00,787,960
+795,19/09/2023,infeksi bakteri,Sangat baik,$0.00,905,734
+796,19/05/2023,parasit eksternal,Tidak baik,$0.00,462,901
+797,12/10/2023,parasit eksternal,Cukup baik,$0.00,698,719
+798,02/09/2023,infeksi virus,Baik,$0.00,199,603
+799,26/08/2023,infeksi virus,Kurang baik,$0.00,628,974
+800,17/11/2023,kekurangan nutrisi,Baik,$0.00,505,383
+801,09/03/2023,parasit internal,Tidak baik,$0.00,289,610
+802,12/10/2023,infeksi bakteri,Cukup baik,$0.00,405,262
+803,11/05/2023,infeksi bakteri,Kurang baik,$0.00,242,438
+804,04/10/2023,parasit internal,Cukup baik,$0.00,793,987
+805,16/10/2023,parasit eksternal,Sangat baik,$0.00,95,650
+806,16/05/2023,infeksi bakteri,Tidak baik,$0.00,482,664
+807,23/09/2023,infeksi bakteri,Sangat baik,$0.00,90,932
+808,13/08/2023,parasit internal,Cukup baik,$0.00,870,678
+809,27/03/2023,gangguan imun,Cukup baik,$0.00,636,55
+810,03/04/2023,keracunan,Kurang baik,$0.00,877,553
+811,31/07/2023,kekurangan nutrisi,Baik,$0.00,429,547
+812,05/04/2023,infeksi bakteri,Baik,$0.00,724,42
+813,19/06/2023,infeksi virus,Kurang baik,$0.00,603,908
+814,29/03/2023,cedera fisik,Sangat baik,$0.00,989,325
+815,17/08/2023,parasit internal,Kurang baik,$0.00,305,483
+816,09/12/2023,parasit internal,Sangat baik,$0.00,608,716
+817,24/09/2023,infeksi virus,Baik,$0.00,139,107
+818,11/07/2023,kekurangan nutrisi,Kurang baik,$0.00,13,376
+819,12/06/2023,kekurangan nutrisi,Sangat baik,$0.00,837,306
+820,04/02/2023,parasit internal,Tidak baik,$0.00,267,227
+821,18/08/2023,gangguan imun,Cukup baik,$0.00,724,42
+822,21/10/2023,cedera fisik,Sangat baik,$0.00,417,211
+823,14/06/2023,infeksi bakteri,Cukup baik,$0.00,918,742
+824,10/11/2023,gangguan imun,Cukup baik,$0.00,956,566
+825,02/05/2023,infeksi virus,Sangat baik,$0.00,372,87
+826,04/06/2023,keracunan,Sangat baik,$0.00,820,841
+827,01/08/2023,infeksi bakteri,Cukup baik,$0.00,741,819
+828,23/09/2023,keracunan,Tidak baik,$0.00,90,932
+829,02/11/2023,infeksi virus,Sangat baik,$0.00,264,471
+830,13/03/2023,infeksi virus,Tidak baik,$0.00,946,565
+831,22/08/2023,infeksi bakteri,Kurang baik,$0.00,831,25
+832,23/01/2023,cedera fisik,Kurang baik,$0.00,188,743
+833,10/01/2023,infeksi virus,Cukup baik,$0.00,861,725
+834,02/02/2023,gangguan imun,Sangat baik,$0.00,315,28
+835,20/06/2023,parasit eksternal,Kurang baik,$0.00,931,530
+836,06/09/2023,cedera fisik,Cukup baik,$0.00,385,344
+837,11/02/2023,gangguan imun,Baik,$0.00,835,655
+838,05/04/2023,parasit internal,Kurang baik,$0.00,934,977
+839,05/12/2023,infeksi virus,Cukup baik,$0.00,218,758
+840,02/09/2023,kekurangan nutrisi,Kurang baik,$0.00,797,52
+841,26/10/2023,parasit internal,Cukup baik,$0.00,491,837
+842,16/10/2023,infeksi virus,Baik,$0.00,219,618
+843,03/01/2023,infeksi bakteri,Kurang baik,$0.00,928,915
+844,25/04/2023,kekurangan nutrisi,Sangat baik,$0.00,44,649
+845,09/02/2023,parasit eksternal,Tidak baik,$0.00,256,662
+846,20/01/2023,infeksi virus,Kurang baik,$0.00,686,586
+847,20/06/2023,infeksi bakteri,Baik,$0.00,771,768
+848,10/03/2023,infeksi virus,Kurang baik,$0.00,928,915
+849,09/02/2023,parasit eksternal,Baik,$0.00,379,255
+850,22/11/2023,keracunan,Kurang baik,$0.00,935,271
+851,20/07/2023,gangguan imun,Tidak baik,$0.00,158,62
+852,27/07/2023,parasit internal,Tidak baik,$0.00,259,992
+853,24/10/2023,keracunan,Kurang baik,$0.00,53,521
+854,27/08/2023,infeksi bakteri,Kurang baik,$0.00,619,695
+855,23/03/2023,infeksi bakteri,Cukup baik,$0.00,95,45
+856,18/06/2023,gangguan imun,Sangat baik,$0.00,181,679
+857,18/07/2023,parasit internal,Baik,$0.00,304,212
+858,15/09/2023,parasit internal,Sangat baik,$0.00,825,604
+859,24/10/2023,infeksi bakteri,Sangat baik,$0.00,872,666
+860,07/11/2023,gangguan imun,Cukup baik,$0.00,429,547
+861,22/09/2023,gangguan imun,Tidak baik,$0.00,386,729
+862,15/04/2023,parasit internal,Baik,$0.00,634,357
+863,15/02/2023,parasit eksternal,Cukup baik,$0.00,863,147
+864,07/04/2023,keracunan,Baik,$0.00,903,138
+865,02/10/2023,parasit internal,Tidak baik,$0.00,625,214
+866,15/06/2023,gangguan imun,Cukup baik,$0.00,785,435
+867,19/04/2023,parasit eksternal,Cukup baik,$0.00,131,234
+868,03/11/2023,gangguan imun,Baik,$0.00,94,485
+869,20/02/2023,kekurangan nutrisi,Baik,$0.00,643,490
+870,03/11/2023,cedera fisik,Cukup baik,$0.00,991,500
+871,30/07/2023,cedera fisik,Baik,$0.00,210,264
+872,26/01/2023,infeksi bakteri,Tidak baik,$0.00,961,90
+873,14/02/2023,kekurangan nutrisi,Kurang baik,$0.00,264,471
+874,04/10/2023,kekurangan nutrisi,Baik,$0.00,680,346
+875,30/07/2023,infeksi virus,Cukup baik,$0.00,550,263
+876,01/04/2023,infeksi virus,Baik,$0.00,462,722
+877,20/01/2023,gangguan imun,Baik,$0.00,869,608
+878,13/07/2023,parasit eksternal,Cukup baik,$0.00,104,473
+879,11/06/2023,parasit eksternal,Sangat baik,$0.00,975,570
+880,03/04/2023,kekurangan nutrisi,Baik,$0.00,523,886
+881,17/01/2023,cedera fisik,Sangat baik,$0.00,373,188
+882,08/12/2023,parasit eksternal,Cukup baik,$0.00,529,388
+883,04/10/2023,kekurangan nutrisi,Sangat baik,$0.00,957,559
+884,19/02/2023,gangguan imun,Sangat baik,$0.00,297,872
+885,17/04/2023,gangguan imun,Cukup baik,$0.00,452,172
+886,17/08/2023,parasit eksternal,Sangat baik,$0.00,69,632
+887,27/06/2023,parasit internal,Baik,$0.00,929,709
+888,07/10/2023,gangguan imun,Sangat baik,$0.00,291,653
+889,28/09/2023,gangguan imun,Tidak baik,$0.00,587,312
+890,01/01/2023,infeksi virus,Cukup baik,$0.00,159,29
+891,12/12/2023,cedera fisik,Tidak baik,$0.00,203,890
+892,08/09/2023,cedera fisik,Kurang baik,$0.00,337,795
+893,04/06/2023,gangguan imun,Sangat baik,$0.00,881,796
+894,17/01/2023,cedera fisik,Baik,$0.00,905,734
+895,18/05/2023,kekurangan nutrisi,Baik,$0.00,82,320
+896,15/10/2023,parasit internal,Cukup baik,$0.00,683,457
+897,11/02/2023,infeksi bakteri,Tidak baik,$0.00,599,288
+898,01/08/2023,parasit eksternal,Kurang baik,$0.00,379,95
+899,30/03/2023,infeksi virus,Sangat baik,$0.00,310,198
+900,15/01/2023,infeksi bakteri,Cukup baik,$0.00,801,836
+901,24/03/2023,kekurangan nutrisi,Kurang baik,$0.00,402,17
+902,22/08/2023,parasit internal,Baik,$0.00,356,620
+903,13/06/2023,parasit eksternal,Cukup baik,$0.00,680,245
+904,02/03/2023,parasit eksternal,Baik,$0.00,241,497
+905,20/05/2023,parasit eksternal,Sangat baik,$0.00,221,707
+906,15/07/2023,cedera fisik,Cukup baik,$0.00,132,78
+907,28/05/2023,gangguan imun,Cukup baik,$0.00,462,561
+908,27/06/2023,kekurangan nutrisi,Cukup baik,$0.00,125,154
+909,21/08/2023,gangguan imun,Sangat baik,$0.00,808,557
+910,15/03/2023,keracunan,Sangat baik,$0.00,837,793
+911,23/01/2023,parasit internal,Cukup baik,$0.00,805,200
+912,06/07/2023,keracunan,Baik,$0.00,907,621
+913,07/12/2023,keracunan,Tidak baik,$0.00,890,771
+914,08/07/2023,parasit internal,Sangat baik,$0.00,534,187
+915,15/07/2023,cedera fisik,Cukup baik,$0.00,731,16
+916,01/08/2023,cedera fisik,Tidak baik,$0.00,982,552
+917,11/11/2023,infeksi virus,Kurang baik,$0.00,904,350
+918,25/03/2023,kekurangan nutrisi,Kurang baik,$0.00,492,275
+919,06/05/2023,parasit internal,Baik,$0.00,863,27
+920,23/09/2023,infeksi virus,Baik,$0.00,587,82
+921,11/10/2023,infeksi virus,Cukup baik,$0.00,788,278
+922,17/07/2023,infeksi virus,Tidak baik,$0.00,211,820
+923,22/01/2023,infeksi bakteri,Cukup baik,$0.00,95,650
+924,22/03/2023,infeksi virus,Cukup baik,$0.00,668,684
+925,05/06/2023,parasit internal,Sangat baik,$0.00,130,541
+926,21/07/2023,cedera fisik,Sangat baik,$0.00,95,45
+927,27/01/2023,parasit eksternal,Cukup baik,$0.00,73,830
+928,18/06/2023,parasit internal,Kurang baik,$0.00,33,129
+929,12/07/2023,gangguan imun,Baik,$0.00,736,947
+930,05/11/2023,parasit eksternal,Sangat baik,$0.00,38,954
+931,07/09/2023,keracunan,Baik,$0.00,990,184
+932,04/12/2023,infeksi virus,Cukup baik,$0.00,457,756
+933,31/01/2023,keracunan,Baik,$0.00,142,637
+934,26/04/2023,kekurangan nutrisi,Kurang baik,$0.00,965,907
+935,29/01/2023,infeksi virus,Sangat baik,$0.00,994,157
+936,27/06/2023,gangguan imun,Sangat baik,$0.00,904,244
+937,04/11/2023,parasit eksternal,Tidak baik,$0.00,522,96
+938,07/04/2023,infeksi virus,Cukup baik,$0.00,112,573
+939,30/10/2023,cedera fisik,Baik,$0.00,871,646
+940,18/11/2023,parasit eksternal,Kurang baik,$0.00,787,960
+941,04/07/2023,kekurangan nutrisi,Baik,$0.00,417,211
+942,11/05/2023,infeksi virus,Baik,$0.00,712,672
+943,27/07/2023,gangguan imun,Kurang baik,$0.00,830,145
+944,05/10/2023,parasit internal,Cukup baik,$0.00,446,554
+945,10/11/2023,kekurangan nutrisi,Tidak baik,$0.00,744,397
+946,23/09/2023,cedera fisik,Tidak baik,$0.00,993,829
+947,30/11/2023,parasit internal,Baik,$0.00,150,114
+948,12/12/2023,keracunan,Baik,$0.00,187,409
+949,14/08/2023,infeksi bakteri,Cukup baik,$0.00,278,534
+950,07/01/2023,parasit eksternal,Kurang baik,$0.00,587,82
+951,07/07/2023,parasit internal,Cukup baik,$0.00,356,98
+952,20/10/2023,kekurangan nutrisi,Kurang baik,$0.00,529,135
+953,28/02/2023,parasit internal,Baik,$0.00,155,146
+954,22/04/2023,cedera fisik,Sangat baik,$0.00,97,866
+955,20/02/2023,cedera fisik,Kurang baik,$0.00,28,467
+956,20/02/2023,keracunan,Sangat baik,$0.00,291,356
+957,12/03/2023,parasit eksternal,Tidak baik,$0.00,95,577
+958,07/06/2023,keracunan,Baik,$0.00,842,266
+959,03/02/2023,parasit internal,Tidak baik,$0.00,386,93
+960,14/04/2023,infeksi bakteri,Tidak baik,$0.00,702,638
+961,01/07/2023,cedera fisik,Kurang baik,$0.00,219,139
+962,19/07/2023,infeksi virus,Baik,$0.00,148,402
+963,03/08/2023,parasit internal,Kurang baik,$0.00,587,124
+964,08/11/2023,infeksi bakteri,Sangat baik,$0.00,149,911
+965,25/06/2023,cedera fisik,Kurang baik,$0.00,675,491
+966,14/02/2023,parasit eksternal,Baik,$0.00,838,439
+967,15/06/2023,gangguan imun,Cukup baik,$0.00,561,529
+968,24/02/2023,parasit internal,Tidak baik,$0.00,458,242
+969,10/05/2023,parasit eksternal,Baik,$0.00,307,571
+970,11/09/2023,infeksi virus,Baik,$0.00,252,595
+971,04/12/2023,gangguan imun,Kurang baik,$0.00,275,222
+972,14/10/2023,parasit internal,Cukup baik,$0.00,539,772
+973,04/06/2023,infeksi bakteri,Sangat baik,$0.00,285,202
+974,19/07/2023,parasit eksternal,Kurang baik,$0.00,491,837
+975,08/08/2023,infeksi virus,Baik,$0.00,850,496
+976,13/11/2023,keracunan,Kurang baik,$0.00,344,745
+977,20/11/2023,kekurangan nutrisi,Tidak baik,$0.00,181,33
+978,15/08/2023,keracunan,Tidak baik,$0.00,62,516
+979,13/05/2023,cedera fisik,Baik,$0.00,873,520
+980,12/05/2023,infeksi virus,Kurang baik,$0.00,686,586
+981,14/05/2023,parasit eksternal,Sangat baik,$0.00,546,351
+982,15/09/2023,kekurangan nutrisi,Tidak baik,$0.00,631,217
+983,15/12/2023,parasit internal,Cukup baik,$0.00,272,377
+984,22/01/2023,gangguan imun,Sangat baik,$0.00,229,978
+985,08/04/2023,infeksi virus,Cukup baik,$0.00,291,356
+986,02/12/2023,kekurangan nutrisi,Baik,$0.00,475,636
+987,04/07/2023,parasit internal,Kurang baik,$0.00,391,925
+988,07/01/2023,parasit internal,Sangat baik,$0.00,511,463
+989,03/04/2023,infeksi virus,Kurang baik,$0.00,378,36
+990,21/06/2023,keracunan,Sangat baik,$0.00,70,981
+991,04/11/2023,kekurangan nutrisi,Tidak baik,$0.00,457,756
+992,04/02/2023,infeksi bakteri,Kurang baik,$0.00,829,920
+993,18/09/2023,infeksi virus,Sangat baik,$0.00,587,124
+994,28/01/2023,infeksi bakteri,Cukup baik,$0.00,796,900
+995,20/01/2023,parasit eksternal,Sangat baik,$0.00,514,718
+996,17/06/2023,infeksi virus,Sangat baik,$0.00,291,356
+997,27/02/2023,kekurangan nutrisi,Baik,$0.00,219,139
+998,13/12/2023,kekurangan nutrisi,Tidak baik,$0.00,982,552
+999,22/07/2023,infeksi bakteri,Baik,$0.00,143,927
+1000,01/03/2023,parasit eksternal,Sangat baik,$0.00,446,554

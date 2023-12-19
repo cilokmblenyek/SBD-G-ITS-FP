@@ -1,0 +1,1001 @@
+ID,Nama,Spesies,Umur,ID_Pelanggan
+1,Mikey,"Otter, brazilian",1,5
+2,Ricki,Turkey vulture,1,173
+3,Livvy,"Lizard, collared",2,451
+4,Jimmy,"Marten, american",6,408
+5,Harwilll,Leopard,3,345
+6,Abbie,Glossy ibis,2,293
+7,Garner,Brush-tailed bettong,1,734
+8,Avie,Black-eyed bulbul,6,619
+9,Hilde,Campo flicker,8,357
+10,Alyssa,"Swan, trumpeter",6,583
+11,Sampson,"Shark, blue",6,137
+12,Karine,African wild dog,1,744
+13,Dore,"Frogmouth, tawny",2,912
+14,Junina,Least chipmunk,4,313
+15,Tawnya,"Booby, masked",9,249
+16,Olivero,American buffalo,7,731
+17,Amble,Asiatic wild ass,7,402
+18,Mathias,"Whale, southern right",1,920
+19,Isidor,Carpet snake,7,81
+20,Georgena,Blue-breasted cordon bleu,4,678
+21,Demott,"Goose, knob-nosed",1,500
+22,Starlene,"Penguin, little blue",3,414
+23,Todd,"Fox, north american red",2,431
+24,Magdalene,"Alligator, mississippi",2,112
+25,Goraud,Prairie falcon,9,831
+26,Trudie,"Heron, little",2,549
+27,Oswald,"Lizard, mexican beaded",8,863
+28,Sheelagh,"Squirrel, antelope ground",10,315
+29,Marchall,Indian red admiral,1,159
+30,Lothaire,American Virginia opossum,1,345
+31,Ermina,"Marten, american",5,983
+32,Hildegaard,"Glider, squirrel",6,971
+33,Brig,"Monitor, two-banded",9,181
+34,Emerson,Collared peccary,7,97
+35,Simmonds,Tiger cat,8,733
+36,Rhona,Red-legged pademelon,9,378
+37,Dalli,"Mynah, indian",6,397
+38,Rockey,"Phalarope, red",5,140
+39,Brok,Zorilla,9,1
+40,Drusy,Jaguarundi,5,397
+41,Carley,Andean goose,1,534
+42,Bernita,"Bleu, blue-breasted cordon",10,724
+43,Henri,"Badger, eurasian",3,691
+44,Rasla,Levaillant's barbet,10,979
+45,Karoline,Black-backed jackal,1,95
+46,Devinne,South African hedgehog,9,813
+47,Mannie,"Zebra, common",6,653
+48,Shaylah,Prairie falcon,6,367
+49,Dosi,Superb starling,7,368
+50,Audrie,Great egret,4,16
+51,Catherina,"Heron, yellow-crowned night",7,902
+52,Conny,Black-collared barbet,9,797
+53,Ardelia,African black crake,5,85
+54,Anthia,"Sheep, american bighorn",3,133
+55,Joaquin,Horned lark,9,636
+56,Ekaterina,Common wombat,3,694
+57,Grange,"Flamingo, chilean",7,263
+58,Chrystal,Pronghorn,5,940
+59,Juliette,"Goose, cereopsis",1,933
+60,Essa,"Wallaby, bennett's",3,236
+61,Tamqrah,Red and blue macaw,4,897
+62,Lay,Pacific gull,5,158
+63,Blaine,Barasingha deer,9,110
+64,Davie,Red-winged blackbird,6,14
+65,Troy,Sarus crane,4,517
+66,Beauregard,Asian openbill,6,565
+67,Alard,Pine squirrel,5,879
+68,Constanta,Scarlet macaw,8,87
+69,Berti,Timber wolf,3,618
+70,Fields,Asian openbill,7,991
+71,Dulcia,European beaver,4,261
+72,Arlee,Large-eared bushbaby,5,988
+73,Dottie,Brazilian otter,9,110
+74,Gayle,Clark's nutcracker,6,241
+75,Melinda,"Sifaka, verreaux's",1,873
+76,Verile,"Vulture, turkey",10,156
+77,Toby,African ground squirrel (unidentified),5,367
+78,Christoph,"Spoonbill, white",8,132
+79,Eimile,Brazilian otter,7,602
+80,Douglass,Greater kudu,4,794
+81,Min,Black-winged stilt,2,876
+82,Correy,"Turtle, long-necked",6,587
+83,Rasia,"Cockatoo, red-breasted",1,266
+84,Shaun,Red-shouldered glossy starling,7,556
+85,Rinaldo,"Porcupine, indian",6,251
+86,Mahmoud,Roseate cockatoo,2,446
+87,Sandro,"Woodcock, american",6,372
+88,Kristal,Vervet monkey,7,546
+89,Gratiana,European wild cat,9,783
+90,Tonie,Red-tailed hawk,10,961
+91,Ania,Suricate,1,344
+92,Bobbette,"Otter, oriental short-clawed",7,317
+93,Meris,"Falcon, peregrine",10,386
+94,Emmanuel,House sparrow,1,26
+95,Saundra,Common mynah,8,379
+96,Aida,Stanley bustard,10,522
+97,Maggy,King cormorant,10,907
+98,Rhianna,"Porcupine, crested",7,356
+99,Pru,"Porcupine, african",9,355
+100,Bryanty,Blue-faced booby,5,483
+101,Bary,Red-breasted nuthatch,2,18
+102,Guthrey,Small Indian mongoose,10,614
+103,Vincenty,Netted rock dragon,1,559
+104,Joachim,"Cormorant, neotropic",4,318
+105,Alane,"Monkey, vervet",10,686
+106,Willey,"Rhea, greater",6,534
+107,Rochester,"Fox, bat-eared",6,139
+108,Nikita,Antelope ground squirrel,10,455
+109,Alfred,"Peacock, indian",3,644
+110,Broderick,"Polecat, african",9,431
+111,Hewitt,"Siskin, yellow-rumped",9,146
+112,Gerhardt,"Gull, pacific",5,477
+113,Cindra,"Gonolek, burchell's",3,842
+114,Gwen,Red meerkat,8,150
+115,Curr,Ringtail,4,944
+116,Florance,"Baboon, olive",9,312
+117,Carr,Tawny frogmouth,2,614
+118,Porty,Burrowing owl,2,55
+119,Galina,Zorilla,7,416
+120,Reena,Savanna baboon,1,806
+121,Dale,"Mongoose, small indian",9,378
+122,Maud,"Hyena, striped",1,853
+123,Grannie,"Eagle, long-crested hawk",10,882
+124,Tracee,"Cardinal, black-throated",2,587
+125,Sammy,"Buffalo, american",9,516
+126,Lorna,"Stork, black-necked",10,756
+127,Sig,Brush-tailed bettong,3,607
+128,Gilda,"Cormorant, great",3,24
+129,Steffi,American bighorn sheep,1,33
+130,Jorie,"Tinamou, elegant crested",3,949
+131,Avictor,Red-tailed cockatoo,7,2
+132,Muhammad,"Phalarope, northern",5,600
+133,Kristy,"Monkey, bleeding heart",4,285
+134,Masha,Ringtail,2,849
+135,Perice,Western pygmy possum,9,529
+136,Drusie,Turkey vulture,8,844
+137,Trev,Paradoxure,4,831
+138,Cesaro,"Otter, north american river",7,903
+139,Giana,Southern elephant seal,3,219
+140,Bonny,"Waxbill, violet-eared",6,221
+141,Sibley,"Dragon, netted rock",1,40
+142,Alica,"Heron, yellow-crowned night",5,349
+143,Slade,Nubian bee-eater,2,942
+144,Andros,Woylie,3,852
+145,Evan,Gray duiker,8,830
+146,Chev,"Bustard, denham's",3,155
+147,Creigh,Rhesus monkey,2,863
+148,Joby,"Gazelle, grant's",3,298
+149,Gilda,House crow,8,484
+150,Thadeus,Eastern fox squirrel,5,543
+151,Jermayne,"Squirrel, arctic ground",8,257
+152,Wallis,African ground squirrel (unidentified),8,257
+153,Annadiana,Hyrax,4,375
+154,Cori,Blue and yellow macaw,1,125
+155,Georges,Civet (unidentified),7,292
+156,Ase,"Hornbill, red-billed",2,335
+157,Randy,"Openbill, asian",6,994
+158,Darleen,Green-winged trumpeter,2,232
+159,Liuka,Blue-tongued lizard,10,755
+160,Urbanus,Yellow-headed caracara,7,654
+161,Linoel,Wild turkey,3,799
+162,Mimi,"Fox, cape",2,55
+163,Vasily,"Duck, comb",9,845
+164,Mignon,Ocelot,3,858
+165,Thorpe,"Jackal, asiatic",6,923
+166,Codi,"Dog, african wild",4,479
+167,Kermy,"Deer, swamp",9,322
+168,Gael,Long-finned pilot whale,1,520
+169,Alessandro,"Shelduck, european",6,336
+170,Cristie,"Duck, blue",6,172
+171,Adelina,Blue peacock,3,698
+172,Elsworth,"Lion, california sea",8,452
+173,Diana,Black-winged stilt,8,676
+174,Merrily,Asian lion,5,385
+175,Erhart,"Stork, openbill",4,989
+176,Henrietta,Yellow baboon,4,30
+177,Shanna,White-winged dove,2,379
+178,Sharron,"Badger, honey",8,965
+179,Neely,White-throated monitor,8,818
+180,Molly,"Waterbuck, defassa",5,316
+181,Dodie,Mourning collared dove,6,594
+182,Corbett,Crab-eating fox,1,87
+183,Leslie,Sage grouse,2,822
+184,Roland,Grey heron,6,990
+185,Brant,Black curlew,3,489
+186,Doe,Red-necked phalarope,4,298
+187,Jacobo,"Hyena, spotted",6,534
+188,Jud,"Pie, rufous tree",10,373
+189,Edward,Butterfly (unidentified),5,807
+190,Rosa,"Mynah, indian",10,274
+191,Alric,"Seal, northern fur",5,2
+192,Irving,"Lizard, frilled",1,996
+193,Burg,"Dove, mourning collared",6,294
+194,Ravi,Tayra,10,489
+195,Jacinthe,"Lemur, lesser mouse",2,389
+196,Emery,"Jaeger, long-tailed",7,305
+197,Kellina,"Squirrel, european red",3,882
+198,Kimmy,American crow,2,310
+199,Townsend,"Racer, american",7,219
+200,Henrietta,"Sheep, american bighorn",8,805
+201,Madel,"Dolphin, striped",2,286
+202,Roseline,Red-tailed hawk,8,285
+203,Gertrude,Egyptian vulture,7,694
+204,Bibbie,"Eagle, white-bellied sea",6,66
+205,Catriona,"Stork, yellow-billed",5,329
+206,Lara,"Openbill, asian",2,597
+207,Eden,American woodcock,4,922
+208,Vincents,"Capuchin, brown",8,378
+209,Lainey,Red howler monkey,8,446
+210,Ignace,Red-tailed wambenger,2,73
+211,Curr,Golden eagle,4,417
+212,Munmro,Black-footed ferret,10,304
+213,Julius,"Deer, roe",5,317
+214,Gipsy,"Beaver, american",7,625
+215,Windham,Eagle owl (unidentified),2,830
+216,Elihu,"Bear, american black",9,812
+217,Spenser,Rufous tree pie,4,631
+218,Thaddus,"Heron, grey",6,744
+219,Ellen,Javan gold-spotted mongoose,10,599
+220,Natal,Chameleon (unidentified),5,793
+221,Shir,Red squirrel,5,622
+222,Scott,Canadian river otter,10,275
+223,Kally,"Porcupine, indian",9,762
+224,Sid,Northern fur seal,1,275
+225,Caria,"Stork, black-necked",9,826
+226,Loraine,"Lion, african",9,337
+227,Lilith,"Goose, cereopsis",1,267
+228,Mallissa,"Goldeneye, common",8,292
+229,Andriana,"Sifaka, verreaux's",2,990
+230,Penni,Swamp deer,2,354
+231,Matt,Butterfly (unidentified),5,415
+232,Pamela,Red kangaroo,2,868
+233,Ximenez,Common wolf,7,262
+234,Glendon,Purple grenadier,7,131
+235,Filbert,Magnificent frigate bird,7,108
+236,Adriane,"Hornbill, yellow-billed",9,716
+237,Melinda,Eastern white pelican,3,402
+238,Celinda,African pied wagtail,6,38
+239,Townsend,Cook's tree boa,8,743
+240,Aloysia,Leadbeateri's ground hornbill,1,357
+241,Maxine,Chilean flamingo,3,651
+242,Jess,European wild cat,2,458
+243,Auguste,"Egret, great",2,531
+244,Bert,Horned rattlesnake,8,904
+245,Virgilio,Short-beaked echidna,9,680
+246,Muffin,"Kangaroo, brush-tailed rat",7,239
+247,Neda,Painted stork,6,984
+248,Constancy,Arctic tern,4,266
+249,Elke,"Lapwing, southern",2,784
+250,Abner,Indian jackal,7,928
+251,Adeline,"Puffin, horned",2,522
+252,Mirabella,"Siskin, pine",6,813
+253,Ardith,"Stork, marabou",5,172
+254,Natasha,"Mongoose, yellow",4,658
+255,Andros,Butterfly (unidentified),9,379
+256,Vyky,"Rhinoceros, square-lipped",7,407
+257,Kitti,African red-eyed bulbul,3,490
+258,Arlie,Pine snake (unidentified),10,564
+259,Rebeca,"Weaver, sociable",2,812
+260,Gannon,"Otter, north american river",10,912
+261,Shannon,"Dove, ring",9,300
+262,Marie-ann,Pied kingfisher,5,405
+263,Shanda,Eurasian hoopoe,1,550
+264,Therese,"Eagle, tawny",8,210
+265,Johan,Lesser mouse lemur,2,71
+266,Valerye,"Phascogale, red-tailed",3,842
+267,Selina,Red-tailed phascogale,5,997
+268,Phedra,Swainson's francolin,7,301
+269,Rayner,Black-cheeked waxbill,1,907
+270,Kiele,"Eagle, bateleur",5,849
+271,Benny,"Stork, jabiru",7,935
+272,Roze,"Trotter, lily",3,970
+273,Vanny,Pallas's fish eagle,2,448
+274,Kennan,African polecat,1,979
+275,Bernadene,"Heron, goliath",7,492
+276,Dorian,Common grenadier,10,798
+277,Fairlie,Striped dolphin,5,476
+278,Gabe,Pacific gull,7,788
+279,Melvyn,"Macaw, blue and gold",6,364
+280,Mattheus,"Echidna, short-beaked",2,612
+281,Jaquelin,Australian spiny anteater,8,59
+282,Sutton,Columbian rainbow boa,6,894
+283,Georgianne,"Cockatoo, slender-billed",8,532
+284,Hilde,Brown antechinus,1,103
+285,Berte,Wood pigeon,2,330
+286,Caritta,Trumpeter swan,1,76
+287,Rora,Red-tailed phascogale,3,766
+288,Elsi,"Rhinoceros, white",5,599
+289,Eryn,"Wallaby, dama",8,471
+290,Laurette,"Monkey, bleeding heart",1,23
+291,Muffin,"Badger, american",10,10
+292,Dallas,"Crow, pied",5,844
+293,Ingemar,"Lizard, desert spiny",10,648
+294,Emmery,White-bellied sea eagle,6,457
+295,Ruddy,Great white pelican,3,662
+296,Wernher,Black-tailed prairie dog,4,695
+297,Frannie,"Monkey, vervet",10,913
+298,Murial,African snake (unidentified),5,997
+299,Demetrius,White-tailed deer,5,766
+300,Gilly,"Dove, mourning collared",8,745
+301,Giuseppe,Pocket gopher (unidentified),1,632
+302,Amby,Cape white-eye,9,592
+303,Alphonso,"Deer, spotted",5,1000
+304,Aili,Klipspringer,5,974
+305,Gerrard,"Kangaroo, eastern grey",4,633
+306,Morse,"Wolf, mexican",8,837
+307,Lockwood,Sociable weaver,9,448
+308,Deloris,"Squirrel, european red",2,105
+309,Adelice,"Monkey, bleeding heart",10,294
+310,Cecelia,"Goldeneye, barrows",10,81
+311,Paulina,African porcupine,6,275
+312,Dre,"Catfish, blue",6,587
+313,Malachi,Brindled gnu,6,185
+314,Law,Worm snake (unidentified),7,681
+315,Dunc,"Monkey, black spider",4,827
+316,Ethelyn,Roan antelope,10,745
+317,Inigo,"Rhinoceros, black",6,468
+318,Sal,Snake-necked turtle,9,873
+319,Renate,"Goose, cape barren",9,692
+320,Trumann,"Goose, spur-winged",1,82
+321,Elwood,"Wombat, common",7,25
+322,Nathanial,"Cobra, egyptian",2,258
+323,Ennis,North American porcupine,8,365
+324,Weston,"Waterbuck, common",4,257
+325,Phillipp,"Vulture, lappet-faced",3,989
+326,Shanta,"Raven, cape",5,93
+327,Olive,"Tenrec, tailless",5,625
+328,Eran,American badger,7,527
+329,Brnaba,Crab-eating raccoon,4,876
+330,Micky,Pied butcher bird,2,925
+331,Beth,"Godwit, hudsonian",9,837
+332,Lesly,Jungle cat,4,634
+333,Kendra,White rhinoceros,10,243
+334,Janeta,"Lory, rainbow",1,731
+335,Patsy,White-winged black tern,3,395
+336,Mathias,Margay,4,905
+337,Valeria,Turtle (unidentified),2,251
+338,Dusty,"Lion, steller sea",1,298
+339,Meredeth,"Tortoise, asian foreset",8,136
+340,Modesty,Seven-banded armadillo,8,321
+341,Sander,"Porcupine, indian",6,657
+342,Ruthie,"Waterbuck, common",5,874
+343,Agace,Cuis,10,853
+344,Andrei,Richardson's ground squirrel,3,385
+345,Harland,Water moccasin,9,663
+346,Alford,Musk ox,1,680
+347,Jozef,"Monkey, black spider",4,543
+348,Binnie,African buffalo,4,298
+349,Gordie,"Jackal, indian",2,368
+350,Kip,Southern lapwing,8,904
+351,Isador,"Siskin, pine",5,546
+352,Vaclav,"Goose, snow",8,671
+353,Vivien,Water moccasin,5,297
+354,Sydelle,Kinkajou,1,115
+355,Saidee,"Pelican, great white",2,90
+356,Uriel,Vicuna,4,291
+357,Gilburt,Crab-eating raccoon,7,634
+358,Queenie,"Teal, hottentot",5,537
+359,Warde,"Jackal, black-backed",6,851
+360,Louie,South American meadowlark (unidentified),7,816
+361,Elias,"Skink, blue-tongued",8,711
+362,Robb,"Genet, small-spotted",9,9
+363,Shaylyn,"Vulture, turkey",5,560
+364,Alana,European beaver,10,460
+365,Gaye,Orca,10,70
+366,Rodney,Common grenadier,3,470
+367,Casar,"Dove, rock",6,232
+368,Adler,Mexican beaded lizard,5,467
+369,Riki,Black rhinoceros,4,10
+370,Glory,Western spotted skunk,7,164
+371,Berkeley,Malachite kingfisher,5,908
+372,Willi,"Goose, spur-winged",9,944
+373,Grier,Cougar,9,117
+374,Cami,"Antelope, roan",9,489
+375,Zacharias,"Hawk, galapagos",8,781
+376,Pearl,Spotted wood sandpiper,6,13
+377,Francene,Downy woodpecker,3,272
+378,Bridgette,Pampa gray fox,8,207
+379,Daveen,Miner's cat,7,352
+380,Minnie,"Mongoose, eastern dwarf",6,955
+381,Ursola,Galapagos tortoise,4,782
+382,Bibbye,"Darter, african",5,248
+383,Meara,"Seal, harbor",7,505
+384,Ike,Common shelduck,10,277
+385,Bonny,House crow,6,227
+386,Clayton,Denham's bustard,5,403
+387,Aprilette,"Goose, canada",9,798
+388,Martynne,Brindled gnu,2,529
+389,Katrine,"Crab, red lava",9,154
+390,Corry,Black swan,7,193
+391,Zebedee,"Barbet, levaillant's",9,712
+392,Donny,Australian masked owl,2,202
+393,Shepard,"Skunk, striped",9,141
+394,Denise,"Eland, common",3,161
+395,Andreas,Crested barbet,8,416
+396,Stearne,Snake (unidentified),9,193
+397,Rolf,Levaillant's barbet,6,744
+398,Randall,Long-necked turtle,3,305
+399,Penrod,"Cat, african wild",2,926
+400,Ida,Old world fruit bat (unidentified),10,964
+401,Hermie,"Mongoose, yellow",5,763
+402,Theo,Pale white-eye,7,148
+403,Burg,"Wallaby, euro",6,743
+404,Dodie,"Lemur, ring-tailed",2,449
+405,Alford,Desert tortoise,8,949
+406,Editha,Brown capuchin,3,261
+407,Eugenius,Sulfur-crested cockatoo,6,274
+408,Terza,"Alligator, american",8,828
+409,Filmer,Carpet python,9,187
+410,Perle,Two-banded monitor,9,863
+411,Sela,Wild water buffalo,9,428
+412,Renaldo,House sparrow,3,627
+413,Urbanus,Kaffir cat,4,807
+414,Jeffy,"Kingfisher, pied",1,523
+415,Dulcinea,Galapagos albatross,7,600
+416,Kayla,Peregrine falcon,5,357
+417,Giacobo,Andean goose,6,320
+418,Caspar,Striped skunk,6,285
+419,Giulia,Old world fruit bat (unidentified),6,43
+420,Orelie,Azara's zorro,4,311
+421,Barbaraanne,"Boa, emerald green tree",1,188
+422,Miranda,"Langur, common",9,495
+423,Kippie,"Lynx, african",8,397
+424,Llewellyn,"Legaan, water",6,202
+425,Jeffrey,"Phascogale, red-tailed",2,742
+426,Bab,Black-backed magpie,3,977
+427,Holly,Knob-nosed goose,2,445
+428,Baird,White-throated toucan,7,214
+429,Patience,Bushpig,10,577
+430,Salomi,Blackbuck,9,437
+431,Billy,Desert tortoise,7,354
+432,Dari,Black vulture,10,294
+433,Brion,Canadian river otter,10,734
+434,Rivkah,"Skink, blue-tongued",9,858
+435,Yurik,Galah,3,785
+436,Adella,"Deer, swamp",1,615
+437,Gregory,Warthog,5,254
+438,Tiertza,"Fox, pampa gray",5,242
+439,Karen,"Gull, kelp",9,838
+440,Doy,Painted stork,9,947
+441,Taddeo,"Pheasant, common",2,987
+442,Eli,"Porcupine, indian",1,192
+443,Gradeigh,Indian mynah,7,524
+444,Shamus,"Zorro, common",5,895
+445,Viole,Woodrat (unidentified),10,235
+446,Wallie,Red-shouldered glossy starling,2,1
+447,Robbi,"Booby, blue-faced",3,653
+448,Jeannie,"Snake, tiger",6,303
+449,Micah,"Eagle, tawny",4,681
+450,Clint,"Bustard, denham's",4,48
+451,Albertina,Darwin ground finch (unidentified),8,937
+452,Cathrin,"Eagle, pallas's fish",5,559
+453,Gwyn,Ant (unidentified),2,156
+454,Darn,"Bettong, brush-tailed",3,452
+455,Nanci,Llama,7,578
+456,Kasey,Platypus,7,841
+457,Judie,"Stork, european",2,683
+458,Chilton,American bighorn sheep,7,95
+459,Kerrie,"Squirrel, grey-footed",9,883
+460,Tonia,"Otter, north american river",8,745
+461,Clarice,"Fox, cape",4,87
+462,Patty,Indian star tortoise,4,767
+463,Onfroi,"Boa, emerald green tree",9,511
+464,Beverie,White-necked raven,5,344
+465,Nariko,Egyptian vulture,7,787
+466,Freddy,"Coot, red-knobbed",4,59
+467,Lyndsie,"Hen, sage",6,28
+468,Osborne,"Ox, musk",1,781
+469,Romy,"Gorilla, western lowland",8,452
+470,Tedra,"Booby, blue-footed",4,96
+471,Guillermo,African elephant,9,264
+472,Elenore,"Spurfowl, yellow-necked",8,595
+473,Ashbey,"Wallaby, agile",1,104
+474,Courtney,"Goose, cape barren",1,799
+475,Diena,"Squirrel, richardson's ground",6,218
+476,Brigitte,Blue-footed booby,1,244
+477,Meta,"Dragon, frilled",5,569
+478,Allyn,"Stork, black-necked",6,13
+479,Falkner,Long-crested hawk eagle,8,651
+480,Cinderella,"Finch, common melba",5,923
+481,Seymour,Sea birds (unidentified),6,391
+482,Kimbell,"Seal, common",8,105
+483,Loralyn,"Tamandua, southern",7,305
+484,Alvinia,European shelduck,8,90
+485,Arron,Emu,8,94
+486,Gabriel,"Raven, cape",6,701
+487,Osborn,"Macaw, scarlet",7,491
+488,Roseanne,Indian porcupine,5,252
+489,Audi,"Rat, arboral spiny",1,146
+490,Eleni,Purple moorhen,5,643
+491,Zelma,"Porcupine, crested",2,675
+492,Morgan,"Vulture, white-rumped",1,955
+493,Phyllida,"Badger, european",5,920
+494,Britni,Common zorro,4,224
+495,Reid,"Opossum, american virginia",7,21
+496,Merrill,Great egret,9,850
+497,Isabella,"Albatross, galapagos",8,241
+498,Linette,"Capuchin, black-capped",5,379
+499,Freddie,"Stilt, black-winged",3,309
+500,Cyril,Sable antelope,8,991
+501,Tadeo,"Flamingo, chilean",8,960
+502,Clementius,Sulfur-crested cockatoo,6,172
+503,Helen-elizabeth,Scottish highland cow,3,401
+504,Vaughan,"Fox, silver-backed",9,683
+505,Lee,Southern screamer,9,852
+506,Verina,"Antelope, roan",4,58
+507,Avery,Rock dove,6,299
+508,Celinda,"Plover, blacksmith",3,861
+509,Davy,Red-capped cardinal,5,493
+510,Gerri,"Bustard, denham's",5,219
+511,Orazio,Tsessebe,4,378
+512,Atlanta,Superb starling,7,48
+513,Faunie,Nelson ground squirrel,9,607
+514,Felicdad,"Dove, emerald-spotted wood",8,24
+515,Astra,"Falcon, peregrine",7,880
+516,Willey,"Eagle, white-bellied sea",6,62
+517,Enid,Campo flicker,4,386
+518,Ber,Three-banded plover,1,910
+519,Riobard,"Glider, sugar",9,606
+520,Olav,Eastern boa constrictor,4,873
+521,Frederik,Roseat flamingo,6,53
+522,Linnet,Denham's bustard,4,845
+523,Nikoletta,"Beaver, european",5,73
+524,Boyd,"Peccary, white-lipped",2,813
+525,Daniele,"Lapwing, southern",7,209
+526,Hercules,"Squirrel, indian giant",8,780
+527,Johny,Curve-billed thrasher,3,513
+528,Reamonn,Water monitor,9,938
+529,Franni,"Stork, greater adjutant",5,561
+530,Annie,Spotted deer,5,931
+531,Ardene,"Polecat, african",6,228
+532,Rustin,Western spotted skunk,1,565
+533,Roxanne,"Stork, painted",4,174
+534,Geraldine,Burmese black mountain tortoise,7,278
+535,Brunhilde,Jungle kangaroo,6,639
+536,Michaella,Tokay gecko,9,481
+537,Oralle,"Starling, cape",5,773
+538,Boone,"Dove, mourning collared",2,462
+539,Rikki,Kalahari scrub robin,8,102
+540,Marcus,"Baboon, yellow",9,621
+541,Sam,Feral rock pigeon,2,130
+542,Mort,Sambar,6,925
+543,Maryann,"Cat, ringtail",5,620
+544,Saidee,Common turkey,1,388
+545,Tamarah,"Siskin, yellow-rumped",5,979
+546,Jesse,Bateleur eagle,6,546
+547,Crissy,"Jaeger, long-tailed",1,429
+548,Tilly,"Bushbaby, large-eared",4,381
+549,Caprice,"Deer, barasingha",3,413
+550,Novelia,Little heron,8,467
+551,Sinclare,"Deer, mule",5,783
+552,Madelene,Cape cobra,7,982
+553,Hogan,Crown of thorns starfish,2,877
+554,Korey,Brown antechinus,9,446
+555,Jacquetta,Crab-eating raccoon,4,270
+556,Rania,Cape wild cat,3,359
+557,Lazaro,"Porcupine, tree",10,808
+558,Marilyn,"Stork, greater adjutant",1,281
+559,Karlen,"Jacana, african",7,957
+560,Chris,Malachite kingfisher,4,184
+561,Keriann,"Caiman, spectacled",6,462
+562,Cinda,Brazilian tapir,8,397
+563,Bobby,Margay,5,585
+564,Celina,"Tern, white-winged black",10,421
+565,Ulysses,"Lizard, desert spiny",9,946
+566,Alma,"Plover, blacksmith",2,956
+567,Madelon,"Goose, egyptian",4,554
+568,Rochette,"White-eye, cape",3,234
+569,Mirella,"Penguin, magellanic",4,622
+570,Zsazsa,Frilled dragon,5,975
+571,Garret,"Gazer, sun",1,307
+572,Sheila,Bird (unidentified),8,264
+573,Broderick,White-tailed deer,7,112
+574,Libbie,Rufous tree pie,9,922
+575,Rolph,Dassie,9,423
+576,Drake,African polecat,9,38
+577,Godiva,Paradoxure,9,95
+578,Maurene,"Flycatcher, tyrant",9,597
+579,Adore,"Mongoose, yellow",6,17
+580,Joshia,White-faced whistling duck,7,537
+581,Phillida,"Armadillo, giant",8,694
+582,Mariel,"Egret, snowy",8,14
+583,Carmina,African lynx,1,752
+584,Janice,"Sloth, two-toed",1,729
+585,Gualterio,Leopard,4,509
+586,Zelda,"Cobra, cape",7,686
+587,Guinevere,"Trumpeter, green-winged",10,964
+588,Dayna,"Crane, brolga",7,6
+589,Arie,Russian dragonfly,4,416
+590,Leanna,Tokay gecko,6,613
+591,Hobey,Nilgai,2,105
+592,Carolyn,"Kangaroo, black-faced",5,264
+593,Joscelin,Egyptian cobra,9,122
+594,Jaine,Ring-tailed coatimundi,8,614
+595,Orion,"Sloth, pale-throated three-toed",7,252
+596,Sonia,"Vulture, turkey",5,635
+597,Philippe,"Goose, canada",3,550
+598,Normie,"Snake, racer",10,920
+599,Brittney,"Puma, south american",10,338
+600,Levey,Killer whale,1,430
+601,Bentley,"Racer, american",10,204
+602,Gusti,North American porcupine,3,194
+603,Esma,"Cormorant, neotropic",3,199
+604,Abeu,Herring gull,1,825
+605,Ivor,Roseat flamingo,4,178
+606,Thorstein,"Ibis, glossy",3,769
+607,Meredithe,Agama lizard (unidentified),9,355
+608,Nonnah,"Owl, white-browed",3,869
+609,Perle,"Flicker, campo",10,982
+610,Gill,Collared lizard,7,289
+611,Charlot,Magellanic penguin,8,926
+612,Mollie,Butterfly (unidentified),10,58
+613,Rodger,Southern brown bandicoot,2,914
+614,Donovan,"Mongoose, banded",9,26
+615,Englebert,Common seal,1,770
+616,Iago,"Bunting, crested",10,463
+617,Henderson,African lion,10,3
+618,Jeromy,Lily trotter,3,219
+619,Laurent,Tiger cat,7,265
+620,Verla,Vervet monkey,8,356
+621,Cacilia,Blue shark,9,907
+622,Reilly,"Tern, arctic",7,54
+623,Emanuel,"Turtle, eastern box",9,820
+624,Annissa,"Gazelle, thomson's",10,525
+625,Ernesto,"Crab, red lava",3,634
+626,Carlin,Great white pelican,10,422
+627,Bobby,Chestnut weaver,10,386
+628,Hewitt,White-winged tern,2,499
+629,Federica,Cheetah,9,440
+630,Colman,"Whale, southern right",9,136
+631,Lu,Cougar,8,810
+632,Bord,Black vulture,2,69
+633,Kamilah,"Bulbul, black-eyed",5,911
+634,Miran,Bateleur eagle,8,504
+635,Kacie,Black-tailed deer,5,356
+636,Lalo,"Possum, western pygmy",7,475
+637,Malina,Common waterbuck,7,142
+638,Shanda,Verreaux's sifaka,5,702
+639,Catarina,Brown and yellow marshbird,10,111
+640,Mace,Bonnet macaque,10,502
+641,Carlene,"Marshbird, brown and yellow",8,861
+642,Sylas,Turtle (unidentified),10,681
+643,Rex,Chestnut weaver,9,948
+644,Kenneth,Sockeye salmon,4,165
+645,Mohandis,"Dog, black-tailed prairie",2,481
+646,Prudy,Asian elephant,3,871
+647,Tabbitha,"Lizard, collared",6,775
+648,Rickert,Common eland,6,272
+649,Marilee,"Peccary, collared",10,44
+650,Nicolle,Savannah deer,10,95
+651,Belvia,"Wolf, common",10,425
+652,Margalo,"Polecat, african",10,137
+653,Betteanne,Greater sage grouse,8,291
+654,Dela,"Lourie, grey",1,329
+655,Valeria,Blacksmith plover,1,835
+656,Marie,Crested bunting,7,382
+657,Steffane,Long-billed corella,10,639
+658,Gun,Nyala,7,313
+659,Giuseppe,"Cat, ringtail",5,195
+660,Celestina,"Lorikeet, scaly-breasted",3,994
+661,Odella,Long-billed cockatoo,7,691
+662,Augustin,Black-capped capuchin,7,256
+663,Gabbie,Red-necked phalarope,10,407
+664,Brandais,"Heron, striated",7,482
+665,Cornell,Woylie,8,872
+666,Sigismund,"Baboon, chacma",8,872
+667,Minnnie,"Marmot, yellow-bellied",1,213
+668,Stevana,"Heron, black-crowned night",1,772
+669,Winny,"Marmot, yellow-bellied",9,782
+670,Hyacintha,Gerenuk,6,773
+671,Dukie,Woylie,1,967
+672,Legra,Tokay gecko,10,712
+673,Northrop,Southern right whale,1,647
+674,Rance,African snake (unidentified),5,240
+675,Beniamino,Short-beaked echidna,7,117
+676,Symon,Red-billed buffalo weaver,10,54
+677,Ric,"Genet, common",6,81
+678,Ryley,"Antechinus, brown",3,870
+679,Ruthie,Cobra (unidentified),4,181
+680,Melloney,"Fox, cape",9,56
+681,Loraine,Koala,10,889
+682,Perkin,Red-cheeked cordon bleu,2,431
+683,Ellissa,Red-tailed wambenger,4,183
+684,Mufi,"Blackbird, red-winged",8,668
+685,Dagny,"Stork, black-necked",9,240
+686,Raymund,"Cockatoo, slender-billed",6,526
+687,Lance,American buffalo,6,779
+688,Neal,Grizzly bear,7,118
+689,Layton,Indian leopard,3,648
+690,Chelsea,Common nighthawk,1,307
+691,Derril,"Goose, snow",10,571
+692,Den,Waved albatross,8,722
+693,Richmond,"Alligator, mississippi",8,870
+694,Alexio,"Squirrel, african bush",9,809
+695,Ferris,African ground squirrel (unidentified),1,619
+696,Alica,Brush-tailed bettong,6,94
+697,Lenci,"Hawk, ferruginous",1,509
+698,Erik,Brown and yellow marshbird,8,291
+699,Weider,Miner's cat,7,881
+700,Tana,"Beaver, eurasian",9,439
+701,Otto,"Buffalo, african",5,617
+702,Corny,Bahama pintail,3,184
+703,Sula,Southern elephant seal,2,355
+704,Heidie,Tsessebe,7,647
+705,Ingar,Japanese macaque,10,633
+706,Rafaelita,Asian false vampire bat,5,831
+707,Job,Gila monster,6,221
+708,Eloise,"Cockatoo, sulfur-crested",4,948
+709,Randi,Musk ox,9,929
+710,Shirlene,White-winged dove,7,474
+711,Brooke,"Alligator, american",4,456
+712,Price,Sidewinder,8,667
+713,Kerry,Knob-nosed goose,7,780
+714,Magdalene,Collared peccary,8,263
+715,Elset,"Otter, cape clawless",8,610
+716,Dyann,"Boa, columbian rainbow",8,608
+717,Holt,"Duck, comb",3,266
+718,Drucie,"Hare, arctic",1,514
+719,Marty,Ring-tailed gecko,2,698
+720,Eudora,"Boubou, southern",6,780
+721,Gloriane,Small-clawed otter,1,720
+722,Sidney,African snake (unidentified),5,462
+723,Nicole,"Hyena, spotted",4,579
+724,Parke,Asian false vampire bat,3,685
+725,Babita,Blackish oystercatcher,4,861
+726,Adena,Egyptian vulture,8,126
+727,Sarena,Uinta ground squirrel,5,956
+728,Alexia,"Heron, giant",3,569
+729,Clarice,Ring dove,10,386
+730,Monty,Tyrant flycatcher,10,252
+731,Heddi,Tiger snake,6,72
+732,Brandy,Gila monster,1,10
+733,Wake,Arctic tern,5,149
+734,Georgie,Pied butcher bird,8,905
+735,Noam,Red brocket,3,877
+736,Sonja,Bengal vulture,7,369
+737,Sibeal,"Kangaroo, eastern grey",8,964
+738,Rozalin,"Butterfly, canadian tiger swallowtail",4,734
+739,Gwendolen,"Otter, small-clawed",6,71
+740,Ruprecht,Caracal,1,663
+741,Bernie,Desert kangaroo rat,7,786
+742,Bjorn,"Gazer, sun",8,918
+743,Lynea,Laughing kookaburra,8,188
+744,Lulita,"Bird, secretary",1,866
+745,Moishe,Vine snake (unidentified),8,344
+746,Elsinore,Greater flamingo,1,507
+747,Susi,Pocket gopher (unidentified),4,384
+748,Glynda,Sidewinder,1,170
+749,Blithe,"Admiral, indian red",1,713
+750,Antonius,Swainson's francolin,7,898
+751,Silvester,"Glider, squirrel",3,866
+752,Tani,"Vulture, king",9,907
+753,Laurens,"Flicker, field",5,512
+754,Dulciana,Burmese black mountain tortoise,4,514
+755,Caldwell,Swamp deer,2,786
+756,Heidie,"Opossum, american virginia",4,457
+757,Eada,Pallas's fish eagle,1,189
+758,Anselm,Zorilla,4,218
+759,Shannah,"Wallaby, whip-tailed",10,611
+760,Brigid,"Blackbird, red-winged",7,947
+761,Roanna,Gambel's quail,10,384
+762,Uta,"Vulture, bengal",8,591
+763,Rhona,Spotted deer,1,660
+764,Shurlock,African polecat,5,566
+765,Andrew,"Starling, superb",6,198
+766,Eustace,Southern lapwing,6,792
+767,Brandy,"Grouse, greater sage",7,831
+768,Zacharie,"Seal, northern fur",8,771
+769,Stan,Common seal,1,997
+770,Stephanus,Springhare,8,845
+771,Binni,Harbor seal,4,890
+772,Emeline,Manatee,2,539
+773,Julietta,Snow goose,8,926
+774,Nixie,"Kookaburra, laughing",3,739
+775,Ciel,Black curlew,9,76
+776,Ailene,Long-finned pilot whale,4,361
+777,Alanna,"Spider, wolf",3,330
+778,Felicdad,"Mongoose, small indian",4,530
+779,Jan,"Snake, tiger",10,434
+780,Dore,"Deer, black-tailed",10,452
+781,Clyde,Eastern dwarf mongoose,7,798
+782,Irma,"Gecko, ring-tailed",1,881
+783,Juline,Asian foreset tortoise,8,233
+784,Marthe,"Starling, red-shouldered glossy",7,840
+785,Eveline,"Flicker, field",6,182
+786,Jaquelin,Rufous-collared sparrow,3,581
+787,Hartwell,Bare-faced go away bird,2,301
+788,Yolanda,South American meadowlark (unidentified),2,456
+789,Enrika,Red squirrel,2,408
+790,Gerard,Asian elephant,10,100
+791,Reese,Red-shouldered glossy starling,8,14
+792,Granthem,Common shelduck,4,240
+793,Ashil,"Shelduck, common",10,837
+794,Ralf,African skink,10,134
+795,Kordula,Prairie falcon,1,337
+796,Kermy,Least chipmunk,7,881
+797,Kippie,Yellow baboon,6,972
+798,Grant,Rhesus monkey,10,478
+799,Darnell,Butterfly (unidentified),8,232
+800,Jodi,Eastern quoll,10,712
+801,Robinet,Western lowland gorilla,6,276
+802,Andres,Cape wild cat,9,56
+803,Everett,Gerbil (unidentified),5,186
+804,Emelina,Black-tailed tree creeper,9,19
+805,Gilbert,Japanese macaque,2,844
+806,Robinet,Red hartebeest,10,629
+807,Upton,"Tortoise, galapagos",3,307
+808,Jessie,Indian star tortoise,8,404
+809,Lanita,Blue racer,9,689
+810,Albertina,Nelson ground squirrel,6,152
+811,Fanchette,Green-winged macaw,7,349
+812,Ashly,Black-capped capuchin,8,158
+813,Leela,"Deer, mule",7,172
+814,Dietrich,African polecat,6,743
+815,Noni,"Hen, sage",3,144
+816,Margie,African jacana,4,951
+817,Larisa,Water legaan,6,19
+818,Bradly,Blue peacock,5,532
+819,Myrwyn,"Gazelle, grant's",5,741
+820,Dyanne,Mudskipper (unidentified),6,211
+821,Abra,Javan gold-spotted mongoose,8,799
+822,Mela,Eleven-banded armadillo (unidentified),5,91
+823,Lolita,"Cat, african wild",6,178
+824,Hannis,Eastern cottontail rabbit,5,34
+825,Lyle,Cook's tree boa,8,328
+826,Berne,"Mynah, indian",10,799
+827,Glad,Raccoon dog,5,17
+828,Livia,Water legaan,4,702
+829,Pippy,Frilled lizard,1,993
+830,Kacie,"Lizard, collared",1,73
+831,Waneta,"Lion, mountain",9,420
+832,Wolfgang,Crab-eating fox,10,639
+833,Sherwin,Sally lightfoot crab,6,885
+834,Arlyne,"Duiker, gray",10,89
+835,Malissa,Mudskipper (unidentified),7,75
+836,Reamonn,Frog (unidentified),5,801
+837,Madella,Yellow mongoose,6,491
+838,Griff,White-browed owl,7,630
+839,Artemus,Red squirrel,10,697
+840,Carina,"Squirrel, malabar",10,425
+841,Noll,"Raven, cape",7,820
+842,Yale,Manatee,1,655
+843,Gardener,"Nutcracker, clark's",10,913
+844,Goldia,Grey-footed squirrel,2,578
+845,Ken,Yellow-throated sandgrouse,2,285
+846,Golda,"Hoopoe, eurasian",8,626
+847,Trudi,Helmeted guinea fowl,4,494
+848,Engelbert,"Owl, snowy",5,621
+849,Michel,Cape raven,1,68
+850,Dunn,Black-necked stork,5,298
+851,Enrico,Southern lapwing,5,702
+852,Leia,Platypus,10,140
+853,Alejoa,Huron,9,931
+854,Brittney,Helmeted guinea fowl,9,907
+855,Doralia,"Buffalo, asian water",1,75
+856,Lynnette,Chacma baboon,3,995
+857,Yolane,Silver-backed jackal,7,406
+858,Eddie,Hottentot teal,1,892
+859,Rickie,African clawless otter,7,762
+860,Rolfe,Dusky gull,1,284
+861,Ashlin,Spur-winged goose,7,792
+862,Hubie,"Badger, american",10,540
+863,Conan,Hyrax,7,664
+864,Hobart,"Squirrel, golden-mantled ground",2,273
+865,Deerdre,"Jaeger, long-tailed",6,385
+866,Katey,Yak,1,97
+867,Gennifer,"Gecko, bent-toed",2,988
+868,Beniamino,"Crow, american",5,810
+869,Keri,"Turkey, common",10,918
+870,Danita,Fat-tailed dunnart,5,247
+871,Babbie,Kirk's dik dik,7,928
+872,Burr,Tiger snake,5,297
+873,Henrietta,African bush squirrel,4,540
+874,Talyah,"Squirrel, arctic ground",6,922
+875,Sayre,"Parrot, hawk-headed",4,82
+876,Torey,Slender-billed cockatoo,3,902
+877,Katalin,Capybara,7,897
+878,Else,"Starling, cape",6,491
+879,Fanchette,"Grenadier, purple",2,691
+880,Alistair,"Iguana, land",4,552
+881,Tildie,"Squirrel, indian giant",2,331
+882,Margit,Black spider monkey,3,369
+883,Orelie,Asian water dragon,8,22
+884,Dewie,"Whale, long-finned pilot",2,281
+885,Letty,Puku,9,430
+886,Reed,Elegant crested tinamou,5,523
+887,Consalve,Common wallaroo,10,29
+888,Arvin,Whip-tailed wallaby,8,56
+889,Deloria,"Glider, sugar",2,935
+890,Caitlin,Cape clawless otter,10,203
+891,Eden,Chimpanzee,9,447
+892,Charley,Savanna baboon,4,614
+893,Luci,"Stork, european",1,72
+894,Martynne,Oribi,5,904
+895,Richard,"Bird, bare-faced go away",6,255
+896,Ed,Little blue penguin,10,957
+897,Inge,Scaly-breasted lorikeet,6,217
+898,Deirdre,"Eagle, bateleur",8,655
+899,Paola,Asian red fox,7,267
+900,Eliza,White-tailed deer,7,796
+901,Andy,Red-headed woodpecker,8,462
+902,Mikaela,"Crane, stanley",8,86
+903,Shaughn,Sea birds (unidentified),6,814
+904,Fanchon,"Crane, sandhill",3,757
+905,Crawford,"Cockatoo, roseate",2,425
+906,Burty,Argalis,7,472
+907,Valentino,Western palm tanager (unidentified),2,965
+908,Elwood,Bushpig,7,603
+909,Hazel,"Boa, columbian rainbow",5,644
+910,Janaya,Long-tailed jaeger,5,335
+911,Lin,"Hawk, ferruginous",8,149
+912,Thea,"Macaw, red and blue",7,873
+913,Marin,White-necked raven,7,900
+914,Allie,Mara,8,62
+915,Yetta,Mountain lion,10,928
+916,Sandra,Columbian rainbow boa,8,294
+917,Stanton,Giant heron,2,784
+918,Laverne,Red brocket,7,571
+919,Simeon,"Wolf, mexican",1,132
+920,Rayna,Mule deer,5,829
+921,Thibaud,Snowy sheathbill,7,253
+922,Dorise,Violet-crested turaco,6,83
+923,Kalvin,Eastern white pelican,2,60
+924,Drucy,Greater adjutant stork,7,411
+925,Helli,"Cobra, egyptian",7,391
+926,Keenan,African red-eyed bulbul,10,807
+927,Dennis,Blue and yellow macaw,7,143
+928,Red,Eastern dwarf mongoose,3,147
+929,Hedi,Water monitor,8,953
+930,Siusan,"Racer, american",2,456
+931,Joycelin,"Ass, asiatic wild",8,893
+932,Kary,"Tortoise, asian foreset",8,90
+933,Austin,Nile crocodile,6,17
+934,Tiffanie,"Legaan, ground",5,741
+935,Doti,"Stork, european",7,982
+936,Adam,Snowy sheathbill,10,412
+937,Velvet,Blue-breasted cordon bleu,8,29
+938,Pat,"Eagle, pallas's fish",2,547
+939,Jordon,"Rabbit, eastern cottontail",9,915
+940,Trace,"Iguana, marine",8,881
+941,Lacee,"Crow, house",9,51
+942,Arden,"Viper, egyptian",8,625
+943,Parnell,Great skua,3,199
+944,Tammara,Sloth bear,10,1
+945,Kayla,Black-capped chickadee,6,953
+946,Ole,"Wallaby, red-necked",5,195
+947,Susi,Asian elephant,2,736
+948,Retha,Cormorant (unidentified),6,833
+949,Gardy,Slender loris,4,113
+950,Mandi,"Gecko, tokay",4,979
+951,Issie,Uinta ground squirrel,5,83
+952,Carter,"Hen, sage",6,552
+953,Holli,"Possum, pygmy",5,842
+954,Vergil,"Drongo, fork-tailed",6,38
+955,Bamby,Blue-tongued lizard,8,31
+956,Jennie,Serval,4,528
+957,Simone,White-winged dove,1,384
+958,Frederich,Leopard,10,767
+959,Guilbert,Common nighthawk,2,674
+960,Deny,Common turkey,6,787
+961,Venita,Spur-winged goose,5,582
+962,Korrie,"Jackal, indian",1,233
+963,Cynthy,Yellow-billed hornbill,7,286
+964,Izaak,Ostrich,8,488
+965,Falito,Wild boar,5,321
+966,Celene,Red-billed tropic bird,8,502
+967,Leslie,Mule deer,10,210
+968,Marjy,"Spider, wolf",5,247
+969,Deana,"Flicker, field",3,247
+970,Cirstoforo,Crowned hawk-eagle,6,293
+971,Bennie,Sally lightfoot crab,2,526
+972,Brooke,African pied wagtail,6,176
+973,Prescott,"Gnu, brindled",1,221
+974,Reider,"Grenadier, common",5,628
+975,Chariot,Red hartebeest,5,184
+976,Langsdon,Frilled lizard,1,729
+977,Clarke,Common wallaroo,10,934
+978,Malchy,Sociable weaver,6,229
+979,Barrie,"Pelican, australian",10,382
+980,Lauraine,Asian lion,7,295
+981,Margot,"Kingfisher, malachite",1,70
+982,Gisela,Stick insect,9,216
+983,Antoinette,"Cockatoo, red-tailed",3,359
+984,Gwendolyn,"Heron, giant",9,510
+985,Nester,"Lemur, ring-tailed",3,241
+986,Dillon,"Squirrel, thirteen-lined",5,758
+987,Drugi,"Lemming, arctic",8,793
+988,Meta,"Owl, white-browed",6,714
+989,Fionna,Fisher,7,389
+990,Darby,"Trotter, lily",9,323
+991,Guntar,Mudskipper (unidentified),3,815
+992,Loren,"Stork, marabou",3,259
+993,Phillip,"Sloth, two-toed",4,188
+994,Ronnie,Coqui francolin,8,628
+995,Aldous,Four-spotted skimmer,2,291
+996,Astrix,Common waterbuck,10,208
+997,Dalt,Topi,7,402
+998,Karina,"Stork, greater adjutant",1,881
+999,Karlan,House sparrow,8,87
+1000,Jordon,"Zebra, plains",3,126
